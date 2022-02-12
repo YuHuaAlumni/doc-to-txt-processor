@@ -1,0 +1,808 @@
+
+陈富运 校友 A/T 0002 CHIN FOO YONG No. 23, Taman Sg Chua, 43000 Kajang, Selangor
+李金淼 校友 A/T 0004 LEE KIM TUAN No. 46, Jalan Sulaiman, 43000 Kajang, Selangor
+李清环 校友 A/T 0005 LEE CHING TUAN No. 809, Jalan Sg Chua, 43000 Kajang, Selangor
+冯培楠 校友 A/T 0006 FONG POOI LAM No. 27, Jalan Sulaiman, 43000 Kajang, Selangor
+黄金云 校友 A/T 0007 NG KIM OON No. 34, Taman Pinggiran, 43000 Kajang, Selangor
+李明河 校友 A/T 0008 LEE BEEN HO No. 102, Taman Hijau, 43000 Kajang, Selangor
+李金宗 校友 A/T 0009 LEE KIM CHONG No. 22, 2nd Floor, Jalan Lim Tan Dua, Taman Hijau, 43000 Kajang, Selangor
+龚承永 校友 A/T 0010 KONG SING IN No. 12, Jalan Sulaiman, 43000 Kajang, Selangor
+凌文章 校友 A/T 0013 LING VOON CHONG No. 11, Jalan Jasmin 16C, Taman Jasmin II, 43000 Kajang, Selangor
+林青青 校友 A/T 0014 LIM CHEANG CHEANG No. 7, Jalan Indah 2, Taman Indah, Sg Jelok, 43000 Kajang, Selangor
+陈序权 校友 A/T 0015 CHAN CHOOI KUEN No.103, Kg Baru Sungai Chua, 43000 Kajang, Selangor
+李清文 校友 A/T 0017 LEE CHENG BOON No.4, Jlan 4/98, Taman Supreme, 56100 Kuala Lumpur
+李清福 校友 A/T 0018 LEE CHENG HOCK 3, Jalan 5/2, Setia Impian, 43000 Kajang, Selangor
+戴荣俊 校友 A/T 0025 TAI WIN CHOON No.147, Jalan Bunga Raya, Desa Bunga Raya, Sungai Chua 43000 Kajang, Selangor
+刘加强 校友 A/T 0027 LIEW GAR KEONG No.45, Jalan Raja Haroun, 43000 Kajang, Selangor
+李国忠 校友 A/T 0028 LEE KOK CHONG No 4, Jalan 2, Taman Kajang Baru,Sg.Chua, 43000 Kajang, Selangor
+许荣敬 校友 A/T 0029 KO YONG TENG No.174, Jalan Reko, 43000 Kajang, Selangor
+刘进发 校友 A/T 0030 LIEU CHIN FATT No.37, Jalan Tukang, 43000 Kajang, Selangor
+官瑞心 校友 A/T 0033 KWAN SEE SIM No.5, Jalan Villi 2, Taman Anggerik, Off Jalan Semenyih, 43000 Kajang, Selangor
+方丽娥 校友 A/T 0034 PONG LEE NGOO 42, Jalan Kajang Raya 10, Taman Kajang Raya, Sg. Chua, 43000 Kajang, Selangor
+杨阁芳 校友 A/T 0037 YEW KOK FUANG No.26, Jalan Overseas, Taman Lama, 41560 Klang, Selangor
+陈玟天 校友 A/T 0039 TAN BOON TIAM No.15, Jalan 18, Taman Bukit Mewah, 43000 Kajang, Selangor
+李亚才 校友 A/T 0040 LEE AH CHYE No.1, Jalan 1, Taman Sg Jelok, Sg Jelok, 43000 Kajang, Selangor
+刘永世 校友 A/T 0043 LOW ENG SAY 10th mile, Jalan Sg.Lembing, Kuantan, Pahang
+刘金泉 校友 A/T 0044 LOW KIM CHUAN No.28, Jalan Sulaiman, 43000 Kajang, Selangor
+黄国龙 校友 A/T 0050 NG KOK LIN No.40, Jln Mendaling, 43000 Kajang, Selangor
+官金生 校友 A/T 0052 KWAN KIM SANG No.83, Taman Sg. Chua, 43000 Kajang, Selangor
+陈金发 校友 A/T 0055 TAN KIM HUAT Lot. 11, Jalan Balakong,Batu 11, Cheras 43300 Selangor
+李启源 校友 A/T 0057 LEE KAH WAN No.26, Jalan Kajang Jaya, Taman Kajang Jaya, 43000 Kajang, Selangor
+叶侨联 校友 A/T 0058 YAP KIEW LAN No.130, Jalan Sg Chua, 43000 Kajang, Selangor
+王长远 校友 A/T 0059 ONG CHEAN No.126, Jalan Reko, 43000 Kajang, Selangor
+丘坚锐 校友 A/T 0063 HIEW KHEN YOOI No.104, Taman Kajang, 43000 Kajang, Selangor
+张霞金 校友 A/T 0064 DIONG HA KENG No.19, Jalan 7, Taman Hiew Piew, 43500 Semenyih, Selangor
+张华凤 校友 A/T 0065 CHONG WAH FOON No.15, Jln 1, Taman Ros, 43000 Kajang, Selangor
+李多来 校友 A/T 0069 LEE TOO LAI No.69, Bt 11, 43200 Cheras, Selangor
+杨子雄 校友 A/T 0071 YONG CHI HOONG No.49,Lorong CP/66, Cheras Perdana, 43200 Cheras, Selangor
+陈昌 校友 A/T 0072 TAN CHEONG No.17, Bt 11, 43200 Cheras, Selangor
+官添基 校友 A/T 0073 KWAN KIAN KEE No.52, Bt 11, 43200 Cheras Selangor
+叶志贤 校友 A/T 0074 YAP CHEE YEN No.7, Jalan 5, Taman Megah, Sg Jelok, 43000 Kajang, Selangor
+叶观来 校友 A/T 0075 YAP KON LOY No.168, Bt 9, 43200 Cheras, Selangor
+李福祥 校友 A/T 0076 LEE FOOK SIONG No.31, Taman Pinggiran, 43000 Kajang, Selangor
+苏松柏 校友 A/T 0080 SOO CHOONG PAK No.37, Taman Sri Reko, 43000 Kajang, Selangor
+苏松盛 校友 A/T 0081 SOO CHOONG SENG No.25A, Jalan Mendaling, 43000 Kajang, Selangor
+陈育光 校友 A/T 0082 CHEN YOKE KONG No.152, Sg Chua, 43000 Kajang, Selangor
+吴天送 校友 A/T 0083 NG TIN SHOONG No. 49, Bukit Angkat, Sg Chua, 43000 43000 Kajang, Selangor
+李伍党 校友 A/T 0085 LEE GOH TONG No.407, Sg Chua, 43000 Kajang, Selangor
+黄桂送 校友 A/T 0091 ONG KWAI SOONG No.310, Kg Baru, 43500 Semenyih, Selangor
+曾天来 校友 A/T 0093 CHEN TEN LOY No.245, Kg Baru, 43500 Semenyih, Selangor
+曾师荣 校友 A/T 0095 CHEN SOO YIN No.32, Jalan Besar, 43000 Kajang, Selangor
+刘森仁 校友 A/T 0099 LIEW SEM YIN No.11A, Lorong 17/21 A, 47400 P.J, Selangor
+黎平生 校友 A/T 0102 LAI PENG SANG No.13, Jalan Bukit, 43000 Kajang, Selangor
+刘良盛 校友 A/T 0103 LOW LEONG SENG No.7, Jalan Bunga Tanjung, Taman Setia, Sg Chua, 43000 Kajang, Selangor
+罗穆生 校友 A/T 0104 LOW MOK SUNG No.73, Taman Sg Chua, 43000 Kajang, Selangor
+邓华 校友 A/T 0108 CHIN FAH No.360, Sg Chua, 43000 Kajang, Selangor
+杨文顺 校友 A/T 0110 YONG MUN SOON No.95, Taman Keng Lee, Jalan Reko, 43000 Kajang, Selangor
+黄烈仕 校友 A/T 0111 NG YAT SWEE No.360, Jalan Reko, 43000 Kajang, Selangor
+周鸿运 校友 A/T 0113 CHU HOONG WOON No.230/ B, Kg Baru, 43500 Semenyih, Selangor
+陈木华 校友 A/T 0115 TANG BAKE HWA No.127, Desa Bunga Raya, 43000 Kajang, Selangor
+方利国 校友 A/T 0116 PHOON LEE KOK No.46, Jalan Raja Haroun, 43000 Kajang, Selangor
+杨文孝 校友 A/T 0118 YONG WOON SHIAW No.1, Jalan Jelita 2, Taman Jelita, Jalan Reko, 43000 Kajang, Selangor
+贺绍琛 校友 A/T 0119 HOO SAW CHIN No.5, Jalan Cendana, Sg Chua, 43000 Kajang, Selangor
+赖昌信 校友 A/T 0120 LAI CHONG SIN No.52, Jln Jelok Indah 1 Taman Jelok Indah, Sg Jelok, 43000 Kajang, Selangor
+李国珍 校友 A/T 0121 LEE KOK TIN No.7A, Taman Sg Chua, 43000 Kajang, Selangor
+刘树强 校友 A/T 0122 LIEW SHOO KEONG No.101, Jalan 10, Taman Sri Jelok, 43000 Kajang, Selangor
+陈少安 校友 A/T 0125 CHIN SOO ONN No.2102, Taman Rasah, 70644 Seremban, Negeri Sembilan
+韩兆元 校友 A/T 0127 HAN CHEW YUEN No.21, Bt 14, Jalan Cheras, 43000 Kajang, Selangor
+龚国长 校友 A/T 0129 KONG KO TAIAN No.56, Jalan Utama, 43500 Semenyih, Selangor
+郑观钧 校友 A/T 0131 CHHANG KOON CHOON No.1278A, Market-st, 43300 Serdang Bahru, Selangor
+钟静平 校友 A/T 0132 CHONG CHIN PENG No.119, Kg Baru Sg Chua, 43000 Kajang, Selangor
+钟亚胜 校友 A/T 0134 CHUNG AH CHIN No.53, Jalan 3, Taman Kajang Raya, Sg Chua, 43000 Kajang, Selangor
+陈建发 校友 A/T 0135 TAN KIAN HUAT No.58, Jalan Besar, 43500 Semenyih, Selangor
+刘文顺 校友 A/T 0137 LOW BOON CHIN No.94, Muary St, 70644 Seremban Negeri Sembilan
+林冬 校友 A/T 0143 LIM TONG No.62, Jalan 9, Taman Kajang Mewah, 43000 Kajang, Selangor
+刘书轩 校友 A/T 0146 LOW SHU HEAN No.300, Bt 9, Kg. Baru, 43200 Cheras, Selangor
+李之均 校友 A/T 0147 LEE TEE KHOON No.3, Jalan Cendana 5, Taman Cendana, 43000 Kajang, Selangor
+黄国民 校友 A/T 0152 NG KOK BENG No.207A, Batu 9, Cheras, 43200 Cheras, Selangor
+陈金专 校友 A/T 0153 TAN KIM TUAN No.24, Jalan Wan Empok, Bandar Baru Sri Petaling, 57000 Kuala Lumpur
+刘雨清 校友 A/T 0154 LOW YOKE CHIN No.86, Jalan Bukit Mewah 3, Taman Bukit Mewah, 43000 Kajang, Selangor
+刘桂英 校友 A/T 0155 LOW KWI YING No.2, Jalan 2/7, Taman Villa Heights 2, 43000 Kajang, Selangor
+叶玉瑞 校友 A/T 0156 YAP NGUIK SUE No.2, Jalan Reko, 43000 Kajang, Selangor
+邓惠凤 校友 A/T 0158 THEN WAI FOONG No.10A, Jalan Pesar Serdang Bharu, 43300 Selangor
+李思明 校友 A/T 0159 LEE SEE MENG No.38, Jalan Sulaiman, 43000 Kajang, Selangor
+李福林 校友 A/T 0162 LEE HOCK LIM No.34, Jalan Sg Chua, 43000 Kajang, Selangor
+麦汉杰 校友 A/T 0166 MAK HON KEE No.12, Jalan Mandaling, 43000 Kajang, Selangor
+郑惠明 校友 A/T 0167 CHENG HWEI MING No11, Jalan Tiga, Taman Sri Kantan, Bt 14, Jln Cheras, 43000 Kajang, Selangor
+韩松元 校友 A/T 0170 HAN CHOONG YOON No.21, Bt 14, Jalan Cheras, 43000 Kajang, Selangor
+刘双寿 校友 A/T 0171 LOW SONG SIEW No.44, Jalan Bukit Mewah 3, Taman Bukit Mewah, 43000 Kajang, Selangor
+林崇祥 校友 A/T 0172 LIM CHOON SIONG No.15, Jalan 34A, Kg Cheras Baru, 56100 Kuala Lumpur
+李福地 校友 A/T 0174 LEE HOCK TAY No.13, Jalan Asa 14, Taman Asa Jaya, 43000 Kajang, Selangor
+陈金瑞 校友 A/T 0175 CHENG HWEI MING Lot.22, Plaza Perkeliling, Jalan Tun Razak, 50400 Kuala Lumpur
+李松美 校友 A/T 0176 LEE SONG BEE No.11. Taman Cahaya, 43000 Kajang, Selangor
+赖昌晶 校友 A/T 0178 LAI CHONG CHENG No.256A, Jalan Ipoh, 51200 Kuala Lumpur
+刘育强 校友 A/T 0180 LIEW YEOOK KEONG No.45, Jalan Raja Haroun, 43000 Kajang, Selangor
+李金乐(洛) 校友 A/T 0181 LEE KIM ENG No.24, Jalan Jalak Dua, Taman Sri Bahtera, Cheras, 56100 Kuala Lumpur
+唐思发 校友 A/T 0182 TONG SOO FATT No.429, Jalan Lobak, 70644 Seremban, Negeri Sembilan
+赵宜文 校友 A/T 0184 TEOH EE BOON No.3,Jln Pekeliling Aman 13, Kajang Utama, 43000 Kajang, Selangor
+何金凤 校友 A/T 0187 HOH KIM FOONG No.2, Lorong Mamir I, Taman Cannaught, 56000 Kuala Lumpur
+黄华兰 校友 A/T 0188 NG KHAA NANG Lot. 1893, Kg. Balakong, 43300 Balakong, Selangor
+林安瑞 校友 A/T 0194 LIM ANG SOOI No.5, Jalan Tun Abdul Aziz, 43000 Kajang, Selangor
+李安来 校友 A/T 0195 LEE AN LAN No.350, Jalan Reko, 43000 Kajang, Selangor
+王金寅 校友 A/T 0197 ON KIM IN No.20, Jalan 3, Taman Bukit Cantik, 43000 Kajang, Selangor
+王金水 校友 A/T 0198 ONG KIM SOY No.68, Taman Hijau, 43000 Kajang, Selangor
+萧玉祥 校友 A/T 0199 SIEW YOKE SEONG No.12, Sg Chua, 43000 Kajang, Selangor
+刘文兴 校友 A/T 0200 LOW BOON HENG No.42, Sg Chua, 43000 Kajang, Selangor
+秦盛发 校友 A/T 0203 CHIN AH FATT No.16, Jalan Jelita 2, Taman Jelita, Off Jalan Reko, 43000 Kajang, Selangor
+吴金明 校友 A/T 0204 NG KIM LONG No.111, Kawasan Pasar, 43000 Kajang, Selangor
+李清木 校友 A/T 0205 LEE CHIANG BOH No.21, Taman Intan, Desa Ros, 43000 Kajang, Selangor
+雷耀强 校友 A/T 0208 LOY YU KEAN No.139, Taman Sg. Chua, 43000 Kajang, Selangor
+龚文彬 校友 A/T 0209 KONG MONG PING No.4. Taman Lee Yin Kee , 43000 Kajang, Selangor
+曾碧云 校友 A/T 0211 CHEN PI YOON No.7, Jalan Satu, Desa Ros, 43000 Kajang, Selangor
+曾丽敏 校友 A/T 0212 CHEN LEE MIN No.113, Taman Kajang, 43000 Kajang, Selangor
+刘长贵 校友 A/T 0213 LIEW CHARNG KUI No.15, Jalan 7, Taman Sg. Jelok, 43000 Kajang, Selangor
+黎国强 校友 A/T 215 LAI KOK KHEONG No.27, Jalan Mendaling, 43000 Kajang, Selangor
+陈保泰 校友 A/T 0218 TAN POW THAY No.20, Taman Selamat, Bt 14, Jln Cheras, 43000 Kajang, Selangor
+黄国良 校友 A/T 0219 WONG KOK LEONG No.37, Jalan Mendaling, 43000 Kajang, Selangor
+周喜标 校友 A/T 0220 CHEW YEE PIW No.148, Taman Kajang, 43000 Kajang, Selangor
+李瑞萍 校友 A/T 0221 LEE SWEE PENG No.106, Taman Sg. Chua, 43000 Kajang, Selangor
+冯鼎祥 校友 A/T 0222 FONG TIN SEONG No.16, Jalan Besar, 43000 Kajang, Selangor
+林友娣 校友 A/T 0223 LIM YEW THAI No.1170,Tmn Tunku Besar, 73000 Tampin, Negeri Sembilan
+林卫星 校友 A/T 0224 LIM VE SENG No.30,Jln Budiman 3/1, Tmn Putra Budiman, Balakong, 43200 Selangor
+刘绮雯 校友 A/T 0225 LOW YEE MOON No.30, Jalan Mendaling, 43000 Kajang, Selangor
+朱丽宝 校友 A/T 0226 CHEE LEE POW No.22, Jalan Kajang 2, Taman Sri Kajang, 43000 Kajang, Selangor
+张丽英 校友 A/T 0227 CHONG LEE YIN No.58, Jalan Besar, 43000 Kajang, Selangor
+刘日华 校友 A/T 0233 LOW TIT HWA No.7, Bukit Mentri Selatan, 46150 Petaling Jaya, Selangor
+曾昭贤 校友 A/T 0237 CHEN CHOW HEAN No. 22, Jalan Bukit, 43000 Kajang, Selangor
+曾华根 校友 A/T 0240 CHEN FAH KEN No.215, Kg Baru, 43500 Semenyih, Selangor
+黄德水 校友 A/T 0243 NG TECK No.179, Jalan Reko, 43000 Kajang, Selangor
+李志清 校友 A/T 0244 LEE CHEE CHIN No.125, Taman Sg Chua, 43000 Kajang, Selangor
+萧雪英 校友 A/T 0246 SIEW SET YIN No.20, Jalan Besar, 43000 Kajang, Selangor
+李金泉 校友 A/T 0249 LEE KIM TONG No.217, Lot 42, Taman Hijau, Jln Reko, 43000 Kajang, Selangor
+黄有莲 校友 A/T 0252 WONG YOU LIAN No.78, Taman Sg Chua, 43000 Kajang, Selangor
+曾锡海 校友 A/T 0253 CHEN SIAK HOI No.23, Jalan Sulaiman, 43000 Kajang, Selangor
+李文宣 校友 A/T 0254 LEE BOON SUON No.73, Jalan Bukit, 43000 Kajang, Selangor
+刘金火 校友 A/T 0255 LOW KIM HER No.19, Jalan Bangi, 43000 Bangi, Selangor
+苏树养 校友 A/T 0256 SAW SOO YONG No.10, Taman Pinggiran, 43000 Kajang, Selangor
+谢瑞贤 校友 A/T 0257 CHIA SUEE HIAN No.57, Taman Sg Chua, 43000 Kajang, Selangor
+陈道荣 校友 A/T 0258 TAN TOH YONG No.6, Jalan Sulaiman, 43000 Kajang, Selangor
+刘来发 校友 A/T 0259 LIEW LOY FATT No.327, Sg Chua, 43000 Kajang, Selangor
+胡龙科 校友 A/T 0260 OH LONG FUAH No.303, Jalan Pudu, 56000 Kuala Lumpur
+潘锦华 校友 A/T 0266 PANG KIM FAH No.24, Jalan 3, Taman Hiew Piow, 43500 Semenyih, Selangor
+梁沃钦 校友 A/T 0268 LEONG YOKE KIM No.630, Sg Chua, 43000 Kajang, Selangor
+郑镜波 校友 A/T 0269 CHIN KENG POH 55, Taman Kajang Baru, Jalan Sungai Chua, 43000 Kajang, Selangor
+杨柏志 校友 A/T 0272 YEOH BAH CHEE No.3, Jalan Satu, Desa Ros, 43000 Kajang, Selangor
+李华仁 校友 A/T 0277 LEE HAU LIN No.72, Jalan Bukit, 43000 Kajang, Selangor
+李元海 校友 A/T 0278 LEE WAN HAI No.5, Jalan Besar, 43000 Kajang, Selangor
+利志兴 校友 A/T 0279 LEE CHEE CHING No.6, Jalan Tun Abdul Aziz, 43000 Kajang, Selangor
+黄秀全 校友 A/T 0280 NG SIEW CHOON No.33, Taman Pinggiran, 43000 Kajang, Selangor
+凌文运 校友 A/T 0284 LING VOON YOON No.3, Jalan Baru, Desa Ros, 43000 Kajang, Selangor
+蔡柏光 校友 A/T 0285 CHOI PAK KONG No.30, Jalan SS12/14, 47500 Subang Jaya, Selangor
+李吉祥 校友 A/T 0286 LEE KECK SEONG Lot 770, Desa Kekwa, Sg Chua, 43000 Kajang, Selangor
+陈喜来 校友 A/T 0290 TAN HI LAI No.26, Taman Intan, Off Jalan Desa Ros, 43000 Kajang, Selangor
+邱官桦 校友 A/T 0291 HIEW KUN FAH No.16 Jalan Impian 1/9, Taman Kajang Impian, 43650 Bandar Baru Bangi Selangor
+陆有梅 校友 A/T 0292 LOKE YAU MUI No.76, Kajang Jaya, 43000 Kajang, Selangor
+李水 校友 A/T 0293 LEE SWEE No.2, Jln 7, Tmn Seri Jelok, 43000 Kajang, Selangor
+王建业 校友 A/T 0296 ONG KIAN GIAP 94,Taman Sungai Chua, 43000 Kajang, Selangor
+周顺华 校友 A/T 0299 CHEW SOON WAH No.219, Kajang Jaya, 43000 Kajang, Selangor
+游永祥 校友 A/T 0300 YOW YOON SUNG No.38, Taman Pinggiran, 43000 Kajang, Selangor
+陈静缘 校友 A/T 0301 TAN CHENG LIAN No.42, Bovelin Villa, Lorong Aman Cina, Taman Yarl 58200 Kuala Lumpur
+陈静萍 校友 A/T 0302 TAN CHIN PING No.68, Taman Sg Chua, 43000 Kajang, Selangor
+谢进利 校友 A/T 0304 CHEAH CHIN LEE No.43, Desa Kekwa, 43000 Kajang, Selangor
+郑长群 校友 A/T 0305 TAH TIONG KOON No.97, Jln 2, Desa Bunga Raya, 43000 Kajang, Selangor
+廖运兴 校友 A/T 0307 LEOW YUN SIN No.371, Sg Chua, 43000 Kajang, Selangor
+张见陞 校友 A/T 0309 CHONG CHIEN SHENG No.58, Jalan Besar, 43000 Kajang, Selangor
+陈广发 校友 A/T 0311 CHAN KWONG FATT No.9, Taman Sg Chua, 43000 Kajang, Selangor
+吴瑞森 校友 A/T 0313 GOH SOAY SING No.9, Taman Aik Ann, 43500 Semenyih, Selangor
+陈秀珍 校友 A/T 0315 CHIN SEW CHING No.157, Taman Keng Lee, Jalan Reko, 43000 Kajang, Selangor
+王海华 校友 A/T 0318 WONG HAI FAA No.21, Jalan Zamrud 6, Tmn Zamrud, Bt.16, Jalan Semenyih, 43000 Kajang, Selangor
+符玉兰 校友 A/T 0319 HOO YOKE LAM KC-9B-18, Taman Setapak, 53000 Kuala Lumpur
+萧秀平 校友 A/T 0321 SAU SEW PIN No.27, SS24/26, Taman Megah, 47301 Petaling Jaya, Selangor
+郑玉英 校友 A/T 0322 CHEN YOK YING No.104, Taman Kajang, 43000 Kajang, Selangor
+张秀英 校友 A/T 0323 CHONG SIEW YIN No.45, Jalan Besar, 43000 Kajang, Selangor
+黎爱清 校友 A/T 0326 LAI ACHING No.135, Taman Sg Chua, 43000 Kajang, Selangor
+郑亚莞 校友 A/T 0327 TEY OE WAN No.6, Jalan Megah 8, Taman Megah, Sg Jelok, 43000 Kajang, Selangor
+黄六姬 校友 A/T 0329 WONG LOOK KEE No.29, Jalan 2, Desa Ros, 43000 Kajang, Selangor
+温淑杏 校友 A/T 0330 WOON SOKE HENG No.5/36, Taman Hijau, 43000 Kajang, Selangor
+刁雪荫 校友 A/T 0331 TEOW SOOK JNN No.15, Jalan 11, Taman Kajang Baru, 43000 Kajang, Selangor
+龚秀英 校友 A/T 0332 KONG SIEW ING No.20, Taman Selamat, Bt 14, Jln Cheras, 43000 Kajang, Selangor
+郑朝端 校友 A/T 0333 CHENG CHOW TUAN No.15, Jalan Satu, Desa Ros, 43000 Kajang, Selangor
+钟学勤 校友 A/T 0334 CHOONG SET CHING No.89, Jln 9, Tmn Kajang Baru, Sg Chua 43000 Kajang, Selangor
+官瑞蓉 校友 A/T 0335 KUAN SWEE YONG No.12, Taman Cahaya, 43000 Kajang, Selangor
+黄亚莲 校友 A/T 0336 WONG AH LIAN No.20, Jln.1/3, Taman Kajang Impian, 43650 Bandar Baru Bangi, Selangor
+黄细英 校友 A/T 0340 NG SEA ENG No.40, Jalan Mendaling, 43000 Kajang, Selangor
+陈舜华 校友 A/T 0341 TAN SON WA No.4, JALAN 1/7C, 43650 Bandar Baru Bangi, Selangor
+李强 校友 A/T 0342 LEE KONG No.2588, Batu 4 1/2, Jalan Sg Besi, 57100 Salak South Kuala Lumpur
+赵添志 校友 A/T 0343 TEE TIAM TING No.62, Jalan 31, Kepong Baru, 52100 Kuala Lumpur
+唐仕龙 校友 A/T 0344 TONG SOO LOONG No.20, Jalan 552/44, Sea Park, 47300 P.J, Selangor
+贺祥珍 校友 A/T 0346 HO SEONG TIAN No.107, Jalan 6/29, 46150 P.J, Selangor
+陈再振 校友 A/T 0348 TAN CHE KENG No.33, BT 11, 43200 Cheras, Selangor
+陈秉谦 校友 A/T 0353 TAN PING KIAM No.62, Jalan Besar, 43000 Kajang, Selangor
+刘国仁 校友 A/T 0354 LOW KOK LIN No.811, Jalan Sg Chua, 43000 Kajang, Selangor
+秦盛昌 校友 A/T 0355 CHUNG AH FATT B/G 12A, Taman Restu, 43000 Kajang, Selangor
+沈嘉华 校友 A/T 0356 SIM KAR FAH No.12, Jalan 3, Taman Seri Bukit, Off Jalan Reko, 43000 Kajang, Selangor
+苏国嫦 校友 A/T 0360 SOO KOK SHEONG No.113, Taman Kajang, 43000 Kajang, Selangor
+叶振荣 校友 A/T 0361 YAP CHIN YONG No.802, Jalan Sg Chua, 43000 Kajang, Selangor
+杨佐仁 校友 A/T 0364 ALAN YONG Lot 59, Semambu Ind Estate, P.O BOX 22, 25700 Kuantan, Pahang
+陈维岳 校友 A/T 0365 CHIN WEAI NGOH No.77, Taman Kajang, 43000 Kajang, Selangor
+李天送 校友 A/T 0366 LEE TIAN SONG No.574, Sg Chua, 43000 Kajang, Selangor
+吴国森 校友 A/T 0367 GOH KOK SIANG No.35, Tmn Desa Seroja Jalan Reko, 43000 Kajang, Selangor
+池玉英 校友 A/T 0369 CHEE YOOK YIN No.40, Jalan Lima Off Jalan Chan Sow Lin, 55200 Kuala Lumpur
+陈志祥 校友 A/T 0370 TAN KIM CHENG No.34, Jalan Besar, 43000 Kajang, Selangor
+许佩珍 校友 A/T 0371 KOH POI THIAN Lot.86, Jalan Bukit, 43000 Kajang, Selangor
+吴国荣 校友 A/T 0373 GOH KOK YOUNG No.135, Desa Seroja, 43000 Kajang, Selangor
+龚景良 校友 A/T 0374 KONG KENG LEONG No.5, Jalan Sulaiman, 43000 Kajang, Selangor
+宋荣松 校友 A/T 0375 SHOONG YIN KWONG No.10，Jln 2, Taman Kajang Baru, Sg Jelok, 43000 Kajang, Selangor
+刘启超 校友 A/T 0376 LIEW HEE CHAU No.344, Kampung Baru, 43500 Semenyih, Selangor
+张荣 校友 A/T 0377 CHONG BENG No.95, Taman Kajang, 43000 Kajang, Selangor
+杨福生 校友 A/T 0378 YEOH HOCK SENG No.85, Taman Hijau, Jalan Reko, 43000 Kajang, Selangor
+蔡为 校友 A/T 0379 CHOY VOI No.31, Jalan Semenyih, 43000 Kajang, Selangor
+陈平新 校友 A/T 0380 CHIN BING SHING No.220, Sg Chua, 43000 Kajang, Selangor
+许佩松 校友 A/T 0381 KOU POIE SONG No.10, 2nd Floor, Jln Tan Satu, Detah Basar Baru, 43000 Kajang, Selangor
+辜连聪 校友 A/T 0382 KOH LEAN CHONG No.116, Jln 32, Taman Overseas Union, Jalan Kelang Lama, 46000 Kuala Lumpur
+李锦腾 校友 A/T 0383 LEE KIM THEN No.13, Jln 16, Taman Overseas Union, Jalan Kelang Lama, 46000 Kuala Lumpur
+陈金木 校友 A/T 0384 TANG KEE MOK No.47, Taman Lee Yen Kee, 43000 Kajang, Selangor
+李国明 校友 A/T 0386 LEE AH KEOW No.27, Jln 2, Taman Sg Jelok, 43000 Kajang, Selangor
+叶金莲 校友 A/T 0388 YAP MOOI No.633, Sg Chua, 43000 Kajang, Selangor
+刘慧燕 校友 A/T 0390 LOW FUI YEN No.9, Taman Lee Yin Kee, Sg Chua, 43000 Kajang, Selangor
+叶炳聪 校友 A/T 0391 YAP PENG CHONG No.959, Jalan Sungai Chua, 43000 Kajang, Selangor
+曾贵秋 校友 A/T 0395 CHEN KOOI CHIEW No.1, Lorong Indah 3, Taman Indah, Jalan Bukit, 43000 Kajang, Selangor
+陈修进 校友 A/T 0396 TAN SIEW CHIN No.131, Taman Kajang, 43000 Kajang, Selangor
+陈金禄 校友 A/T 0397 TAN KIM LOK Lot.22, Plaza Perkeling 2, Jalan Tun Razak, 50400 Kuala Lumpur
+李金棠 校友 A/T 0398 LEE KIM TONG No.21, Taman Suntex, Batu 9, Jalan Cheras, 43200 Cheras, Selangor
+陈宝珍 校友 A/T 0399 TAN POH TIN No.36, Jalan Kajang 2, Taman Sri Kajang, 43000 Kajang, Selangor
+姚嘉循 校友 A/T 0400 YEOW KA SOON No.11, Jalan Bijak, Taman Cannaught, 56000 Kuala Lumpur
+沈地赞 校友 A/T 0405 SIM TEE CHANG No.145J, Jalan Bukit, 43000 Kajang, Selangor
+苏松坚 校友 A/T 0407 SOO CHONG KIN Lot 1, Section 13, Jln Sg Chua, 43000 Kajang, Selangor
+李彰霖 校友 A/T 0408 LEE CHONG NIM No.110 Desa Seroja, Jalan Reko, 43000 Kajang, Selangor
+钟运财 校友 A/T 0409 CHOONG YOON CHOI No.46, Jalan 9, Taman Bukit Anggerik, Jalan Cheras, 56100 Kuala Lumpur
+唐庚龙 校友 A/T 0410 TONG KANG LONG Batu 19, Jalan Semenyih, Sg. Purun Estate, 43500 Semenyih, Selangor
+邱天生 校友 A/T 0412 HEW THON SANG No.42, Jalan SS2/46, 47300 P.J, Selangor
+曾木生 校友 A/T 0411 CHIN MOK SING No.245, Kg Baru, 43500 Semenyih, Selangor
+黄福美 校友 A/T 00413 NG HOCK BEE No.136, Jalan Bukit, 43000 Kajang, Selangor
+黄秀荣 校友 A/T 0414 NG SIEW YOON No.4A, Taman Selamat, Bt 14 1/2, Jalan Cheras, 43000 Kajang, Selangor
+林金来 校友 A/T 0415 LIM KIM LOY No.19, Taman Pinggiran, 43000 Kajang, Selangor
+贺绍樑 校友 A/T 0418 HO SAW LEONG No.130, Taman Sg Chua, 43000 Kajang, Selangor
+朱国华 校友 A/T 0419 CHEE KOH HWA No.99, Desa Seroja, Jalan Reko, 43000 Kajang, Selangor
+贺绍辉 校友 A/T 0421 HO SAW FEI No.130, Taman Sg Chua, 43000 Kajang, Selangor
+李平安 校友 A/T 0423 LEE PENG ANN No.126, Jalan Reko, 43000 Kajang, Selangor
+朱运娣 校友 A/T 0424 CHOO YUEN THAI A-08-23 A, Pangsapuri Cemara, Bandar Sri Permaisuri, 56000 Kuala Lumpur
+官玉楚 校友 A/T 0425 KUAN GIOK CHOR Lot.38, Jalan Reko (Belakang Taman Keng Lee), 43000 Kajang, Selangor
+郑长铿 校友 A/T 0426 TEH TEONG KHIUM No.7, Taman Sri Reko, Jalan Reko, 43000 Kajang, Selangor
+颜坤华 校友 A/T 0431 GAN KOON HUA No.26, Taman Kajang, 43000 Kajang, Selangor
+邹连喜 校友 A/T 0432 CHEW LEN SHEE No.24, Taman Sg Chua, 43000 Kajang, Selangor
+张银喜 校友 A/T 0436 CHONG AH WAH No.108, Jalan Kijang 5, Taman Suntex, 43200 Cheras, Selangor
+叶福云 校友 A/T 0437 YAP FOOK LIN No.2, Jalan Mendaling, 43000 Kajang, Selangor
+陈世湄 校友 A/T 0439 CHIN SEE HOI No.8, Jalan Bukit, 43000 Kajang, Selangor
+张达强 校友 A/T 0440 CHONG TAT KEONG Lot2497, Bt 1/2, Jalan Bangi, 43500 Semenyih, Selangor
+卢运来 校友 A/T 0442 LOO YOON LAY No.635, Sg Chua, 43000 Kajang, Selangor
+杨海南 校友 A/T 0444 YONG HOI LAM No.579, Sg Chua, 43000 Kajang, Selangor
+邱水生 校友 A/T 0445 HIEW SWEE SANG No.57, Kajang Jaya, Off Jalan Bukit, 43000 Kajang, Selangor
+梁广东 校友 A/T 0446 LEONG KWONG TONG No.61A, Lot 195, Kuantong Baru, Sg Chua, 43000 Kajang, Selangor
+陈鸳鸯 校友 A/T 0447 TAN WAN EYEU No.105, Taman Sg Chua, 43000 Kajang, Selangor
+刘秀莲 校友 A/T 0448 LOW SIEW LIAN No.1, Jalan Reko, 43000 Kajang, Selangor
+戴天佑 校友 A/T 0449 TAI KON YU No.1-36, Ground Floor, Wisma Central, Jalan Ampang, 55000 Kuala Lumpur
+曾秀兰 校友 A/T 0450 CHIN AH MUI No.146, Batu 9, 43200 Cheras, Selangor
+李秀兰 校友 A/T 0451 LEE SIEW LAN E-102, Taman Bukit, 43000 Kajang, Selangor
+李秀柳 校友 A/T 0452 LEE SIEW LOOI No.51, Jalan Lim Tan 2, Taman Hijau, 43000 Kajang, Selangor
+吴丽蓉 校友 A/T 0453 NG LEE YOONG No.99, Taman Keng Lee, Jalan Reko, 43000 Kajang, Selangor
+张俊文 校友 A/T 0454 CHEONG CHUN MOON No.58, Desa Kiambang, Sg Chua, 43000 Kajang, Selangor
+苏润松 校友 A/T 0455 SOO YUN SONG No.121, Taman Keng Lee, Jalan Reko, 43000 Kajang, Selangor
+李秀金 校友 A/T 0457 LEE SIEW KIM No.34, Jalan Bukit, 43000 Kajang, Selangor
+陈汉光 校友 A/T 0458 TAN HANG KUAN No.130, Taman Kajang, 43000 Kajang, Selangor
+邓运生 校友 A/T 459 TANG YUN SANG No.545, Sg Chua, 43000 Kajang, Selangor
+刘植伦 校友 A/T 0460 LAU CHEK LON No.48, Jalan Besar, 43000 Kajang, Selangor
+江秀滔 校友 A/T 0461 KONG SIW TAW Lot 8034, Jalan Bukit, Taman Bukit, 43000 Kajang, Selangor
+刘桥森 校友 A/T 0462 LOW KIOW SAM No.910, Sg Chua, 43000 Kajang, Selangor
+张富强 校友 A/T 0465 CHONG FU KIONG No.178, Kg Baru Balakong, Sg Besi, 43300 Selangor
+林文光 校友 A/T 0466 LAM BOON KONG No.85, Taman Keng Lee, Jalan Reko, 43000 Kajang, Selangor
+李丁财 校友 A/T 0467 LEE LIN CHAI No.121, Jln 3, Tmn Kajang Jaya. 43000 Kajang, Selangor
+黄凯霖 校友 A/T 0468 NG KAI LIAN No.1, Jalan Mendaling, 43000 Kajang, Selangor
+余兴和 校友 A/T 0469 YEE HIN FOH No.735, Sungai Chua, 43000 Kajang, Selangor
+刘凤 校友 A/T 0470 LOW HONG No.176, Batu 6, Kg Baru Cheras, 43000 Kajang, Selangor
+苏学明 校友 A/T 0471 SAIW HOCK MIN Bt 8, Cheras, 43100 Hulu Langat, Selangor
+刘纪坤 校友 A/T 0472 LOW KEE KUN No.908, Jalan Sg Chua, 43000 Kajang, Selangor
+张雁云 校友 A/T 0473 CHONG NGAN YOON No.15, Desa Kekwa, 43000 Kajang, Selangor
+李财成 校友 A/T 0475 LEE CHAI SING Lot 2364, Jalan Kolam Ayer 43000 Kajang, Selangor
+陈金耀 校友 A/T 0476 CHIN KIM YAO No.332, Sg Chua, 43000 Kajang, Selangor
+刘日朝 校友 A/T 0478 LOW YAT CHIEW No.398, Sg Chua, 43000 Kajang, Selangor
+刘日明 校友 A/T 0479 LOW YAT MING No.398, Sg Chua, 43000 Kajang, Selangor
+李金安 校友 A/T 0481 LEE KIM AN No.93, Bt 11, Kg Baru Cheras, 43200 Cheras, Selangor
+叶钦智 校友 A/T 0482 YAP CHIN CHEE No.160, Jalan Reko, 43000 Kajang, Selangor
+林新友 校友 A/T 0483 LIM SEN JOO 54, Block D, Jln. Pasir Emas 7, Tmn Pasir Emas Sg.Chua, 43000 Kajang, Selangor
+赖秀霞 校友 A/T 0484 LAI MAY CHAI No.564, Sg Chua, 43000 Kajang, Selangor
+陈秀莲 校友 A/T 0486 CHAN SAU LIN No.577/1, Jalan Hew Kon Foong, Sg Chua, 43000 Kajang, Selangor
+刘锦昌 校友 A/T 0488 LOW KIM CHONG No.4, Jalan 11/4A, 46150 P.J, Selangor
+唐日结 校友 A/T 490 TENG JIT KIAT No.63, Jalan Besar, 43000 Kajang, Selangor
+刘特芳 校友 A/T 0491 LIEW TIT FONG No.25, Jalan Sengaring, Taman Tenaga 3 1/2, Jln Cheras, 56100 Kuala Lumpur
+萧记秋 校友 A/T 0492 SIOW KEE CHOW No.386, Jalan Gohan Ngee, Sg Chua, 43000 Kajang, Selangor
+朱雁财 校友 A/T 0493 CHOO NGAN CHOY No351, Jalan Reko, 43000 Kajang, Selangor
+刘增强 校友 A/T 0494 LIEW CHEN KEONG No.1, Jlan 1/7A, Bandar Baru Bangi, 43650 Selangor
+陈淑贤 校友 A/T 0496 CHAN SOK YIN No.593, Taman Opmir, Muar, 84000 Johor.
+刘月虹 校友 A/T 0498 LIEW YUET FOON No.39, Jalan Besar, 43000 Kajang, Selangor
+李泽钦 校友 A/T 0501 LEE CHICK KING No. 60, Bt 9, Cheras, 43200 Cheras, Selangor
+邓桂英 校友 A/T 0502 THEAN KUI YEN No.450, Sg. Chua , 43000 Kajang, Selangor
+巫美容 校友 A/T 0503 MU KEE YOW No.31, Jln Tukang, 43000 Kajang, Selangor
+曾彩蓉 校友 A/T 0504 CHEN CHAI YOONG The Heritage,Block 286-08-02, Jln Pahang, 53000 Kuala Lumpur
+李泰志 校友 A/T 0506 LEE TAI CHEE No.111, Jln Serjana, Tmn Connaught, 56000 Kuala Lumpur
+何佐群 校友 A/T 0507 HOO CHAW KHUAN No.26, Jln Sulaiman, 43000 Kajang, Selangor
+陈启福 校友 A/T 0508 TAN KAY HOCK No.100, Tmn Sg Chua, 43000 Kajang, Selangor
+李泰华 校友 A/T 0509 LEE CHAI HUA No.10, Jln.Bukit Mewah 1, Taman Bukit Mewah, 43000 Kajang, Selangor
+王明杰 校友 A/T 0510 No.65, Tmn Sg. Chua, 43000 Kajang, Selangor
+廖嘉鸿 校友 A/T 0512 LIAU KIA HONG No.223, Jln Reko, 43000 Kajang, Selangor
+林天顺 校友 A/T 0513 LIM TIEN SANG No.4, Jln Kijang, Bt 9, 43200 Cheras, Selangor
+林天福 校友 A/T 0514 LIM THIAN FOOK No.4, Jln Kijang, Bt 9, 43200 Cheras, Selangor
+杨兴 校友 A/T 0515 YONG AH HIM No.747， Sg. Chua, 43000 Kajang, Selangor
+陈少芳 校友 A/T 0517 CHAN SIEW FONG 3, Jalan 5/2, Setia Impian, 43000 Kajang, Selangor
+官金狮 校友 A/T 0520 KWAN KIM SAI No.195-A, Kajang Jaya, 43000 Kajang, Selangor
+官福成 校友 A/T 0521 KWAN HOCK SENG No.477, Jln Sg Chua, 43000 Kajang, Selangor
+邱运华 校友 A/T 0522 HEW YOON FAH No.28, Tmn Sg. Chua, 43000 Kajang Selangor
+官博 校友 A/T 0523 KUAN POT No.169, Kg. Baru, Bt 9, 43200 Cheras, Selangor
+李德福 校友 A/T 0524 LEE TECK HOCK No.1, Jln Kajang Impian 1/1, Tmn Kajang Impian, 43650 Bdr Baru Bangi, Selangor
+李再荣 校友 A/T 0525 LEE CHAI ENG No.18, Tmn Sungai Chua, 43000 Kajang, Selangor
+曾昭茂 校友 A/T 0528 CHEN CHEW MOW No.22, Jln Bkt, 43000 Kajang, Selangor
+龚云通 校友 A/T 0530 KONG WOON THONG No.2, Club Road, 41560 Klang, Selangor
+何秀容 校友 A/T 0531 HOW SWEE JOU No.5, Jalan Kelapa, 43000 Kajang, Selangor
+刘瑞良 校友 A/T 0532 LOW SUI LEONG No.480, Sg Chua, 43000 Kajang, Selangor
+陈玉材 校友 A/T 0533 CHIN YOKE CHOY No.14, Tmn Sg Chua, 43000 Kajang, Selangor
+刘师贵 校友 A/T 0534 LIEW SEE KWEE Suite7.01, 7th Floor, Imbi Plaza, 55100 Kuala Lumpur
+王维兴 校友 A/T 0535 WONG MEE HING Bt 18 1/2, Sg. Tanga, Jalan Bangi, 43000 Kajang, Selangor
+章光明 校友 A/T 0536 CHONG KON MING No.1, Jln 16, Taman Bukit Mewah, 43000 Kajang, Selangor
+陈添福 校友 A/T 0537 TAN TIAN HOCK No.118, Bt.11 N/V, 43200 Cheras, Selangor
+黄月娟 校友 A/T 0539 ENG GUT KIANG No.2, Lrg Jambo Bol Satu, Kaw 6,Jalan Menkuang, Teluk Pulai, 41560 Klang, Selangor
+陈振华 校友 A/T 0540 TAN CHIN WAH No.24, Jln Bkt Angkat, 43000 Kajang, Selangor
+周成龙 校友 A/T 0541 CHEW SENG LENG No.812, Jln Sg. Chua, 43000 Kajang, Selangor
+洪润青 校友 A/T 0542 FONG YOONG CHIANG No.137, Kg Baru Sg Chua, 43000 Kajang, Selangor
+覃雪芳 校友 A/T 0543 THAM SIP FONG No.10, Taman Sg Mas, Jalan Reko, 43000 Kajang, Selangor
+刘金池 校友 A/T 0544 LOW KIM TEE No.25, Taman Cahaya, 43000 Kajang, Selangor
+龚国祥 校友 A/T 0545 KONG KING KIAT No.21, Jln Besar, 43000 Kajang, Selangor
+陈文福 校友 A/T 0547 TAN BOON HOCK No.69, Bt 18, 43100 Hulu Langat, Selangor
+李瑞清 校友 A/T 0548 LEE SWEE CHENG No.108, Taman Kajang, 43000 Kajang, Selangor
+曾生 校友 A/T 0549 CHIN NGI @ CHEN SANG No.477， Jln Sg Chua, 43000 Kajang, Selangor
+蔡金汉 校友 A/T 0550 CHUA JID HAN No.5, Jln Lim Tan Satu, 43000 Kajang, Selangor
+刘志强 校友 A/T 0553 LIEW CHEE KEONG No.20, Tmn Dengkil, 43800 Dengkil, Selangor
+陈元耀 校友 A/T 0554 TENG NG YAU No.56, Jln Besar, 43800 Dengkil, Selangor
+张雾 校友 A/T 0555 CHOONG SING No.2, Kg. Baru , 43800 Dengkil, Selangor
+龚全福 校友 A/T 0556 KONG CHUN HOCK Lot 186, Tmn Dengkil, 43800 Dengkil, Selangor
+张添财 校友 A/T 0557 TEO TIAN CHAI No.6, Jln Besar, 43800 Dengkil, Selangor
+洪金粦 校友 A/T 0558 ANG KAN Lot 197, Taman Dengkil, 43800 Dengkil, Selangor
+陈元孝 校友 A/T 0559 TENG NYIN HOW Lot 387, Taman Dengkil, 43800 Dengkil, Selangor
+李金景 校友 A/T 0560 LEE KIM KENG No.23, Jln Besar, 43000 Kajang, Selangor
+苏福霖 校友 A/T 0561 SOO HOCK LING No.18, Desa Kekwa, Sg Chua, 43000 Kajang, Selangor
+陈庆明 校友 A/T 0562 TAN KHENG MIN No.3, Sebelah Desa Ros, 43000 Kajang, Selangor
+刘亚乾 校友 A/T 0564 LAW AH KIAN No.98, Kg Baru Bangi. 43000 Kajang, Selangor
+卢修德 校友 A/T 0565 LOO SEOW TECK No.724, Sg Chua, 43000 Kajang, Selangor
+王美凤 校友 A/T 0566 WONG MEI FONG No.145L, Jln Bukit, 43000 Kajang, Selangor
+王木生 校友 A/T 0567 ONG BOK SENG No.121, Tmn Sg Chua, 43000 Kajang, Selangor
+曾火生 校友 A/T 0569 CHEN FOH SANG No.342, Jln.10, Kampung Baru, Sg Chua, 43000 Kajang, Selangor
+李联和 校友 A/T 0570 LEE LIAN HOW No.62, Jalan 4, Taman Kajang Baru, 43000 Kajang, Selangor
+李玉英 校友 A/T 0571 LEE YOKE ENG No.368, United Garden, Old Klang Road, 58000 Kuala Lumpur
+辜兰英 校友 A/T 0573 KOH LAN YING @ KOH THIEN LIN No.101，Kajang Jaya, 43000 Kajang, Selangor
+林九妹 校友 A/T 0574 LIM KOW MOI No.112C, Block C, Jalan Seksyen 2/20, 43000 Kajang, Selangor
+叶秀琼 校友 A/T 0575 YAP CHIM No.24, Tmn Cahaya, Sg Chua, 43000 Kajang, Selangor
+李金火 校友 A/T 0576 LEE KIM HAY @ FONG AH SEE No.798 （Lot1623） Jalan Sungai Chua, 43000 Kajang, Selangor
+陈施铭 校友 A/T 0578 TAN SZE MING No.47, Tmn Sri Reko, Jln Reko, 43000 Kajang, Selangor
+龚世粦 校友 A/T 0579 KONG SAY LIN No.308, Sg Chua, 43000 Kajang, Selangor
+黄秀云 校友 A/T 0582 WON SIEW ONG No.110, Jln 3, Desa Bunga Raya, Sg Chua, 43000 Kajang, Selangor
+曾九妹 校友 A/T 0583 CHEN KEW MOY No.1, Jln Reko, 43000 Kajang, Selangor
+李乐益 校友 A/T 0585 LEE LOH YAH No.25, Desa Bunga Raya, 43000 Kajang, Selangor
+符金 校友 A/T 0586 FOO KIM No.538，Bt 3 1/2, Jalan Cheras, 56100 Kuala Lumpur
+巫运发 校友 A/T 0587 BOO YONG FAK No.586，Sg Chua, 43000 Kajang, Selangor
+黄大木 校友 A/T 0588 NG TUA BAK No.662,Jln Cenderawasih, 44000 Kuala Kubu Baru, Ulu Selangor.
+陈金启 校友 A/T 0590 TAN KEH YAK No.62, Jalan Besar, 43500 Semenyih, Selangor
+杨景韩 校友 A/T 0591 YEUN KIN HANG Lot 10, Jln Laksamana, Sg Chua, 43000 Kajang, Selangor
+赖清才 校友 A/T 0592 LAI CHIN CHAI No.72,Jln.Tanming kiri 1, Taman Tanming Jaya, 43300 Balakong, Selangor
+刘秀蓉 校友 A/T 0593 LIEW SIEW YOONG No.560, Jln TBK 2/11, Taman Bukit Kenagang, 70200 Seremban, Negeri Sembilan
+袁运琪 校友 A/T 0594 YEM YOON KEE No.173, Kg Baru, 43500 Semenyih, Selangor
+曹美云 校友 A/T 0595 CHAU ME YON No.51, Jln Besar, 43500 Semenyih, Selangor
+凌亚财 校友 A/T 0596 LIN AH CHOY No.41, Jln Semenyih Mewah 9, Tmn Semenyih Mewah Fasa 3, 43500 Semenyih, Selangor
+曾和生 校友 A/T 0597 CHEN FOH SANG Lot 12868, Jln Bkt Mewah 31-A, Taman Bukit Mewah, 43000 Kajang, Selangor
+龚世杰 校友 A/T 0598 KONG SI KIK No.52, Jalan 7, Taman Bukit Baru, 43000 Kajang, Selangor
+龚琴明 校友 A/T 0599 KONG KIM MENG No.12, Jalan Besar, 43000 Kajang, Selangor
+龚秀仲 校友 A/T 0600 KONG SIEW TOON A4-25, Block A, Sri Sentosa Condominium, Taman Sentosa, Sg Jelok, 43000 Kajang, Selangor
+何佛梅 校友 A/T 0601 HO FOH MAY No.71, Taman Sri Reko, Jalan Reko, 43000 Kajang, Selangor
+林全好 校友 A/T 0602 LIM CHUAN HO No.76, Jalan Baru 4, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+廖彩凤 校友 A/T 0603 LEOW CHAI FOONG No.196, Sg Chua, 43000 Kajang, Selangor
+邓燕辉 校友 A/T 0604 TANG YEN FE Lot 12/A-A R.T. Jalan Reko, 43000 Kajang, Selangor
+张佛全 校友 A/T 0605 CHANG FATT CHUAN No.90, Jalan 8, Taman Sri Langat, Jalan Reko, 43000 Kajang, Selangor
+杨华生 校友 A/T 0606 YONG FAH SANG No.136, Jalan 2, Taman Sri Langat, Jalan Reko, 43000 Kajang, Selangor
+曾奕方 校友 A/T 0607 CHEN NYOKE FONG No.4, Jalan Megah, Taman Megah, Sg Jelok, 43000 Kajang, Selangor
+梁瑞明 校友 A/T 0608 LEONG SWEE MING No.16, Taman Selamat, Batu 14, Jalan Cheras, 43000 Kajang, Selangor
+何金胜 校友 A/T 0609 HOH KIM SIN No.6, Jalan Reko, 43000 Kajang, Selangor
+刘云汉 校友 A/T 0610 LOW HOON HANG No.806, Sg Chua, 43000 Kajang, Selangor
+林瑞琴 校友 A/T 0611 LIM SOOI KING No.320, Jalan Jasmin 10, Taman Jasmin, 43000 Kajang, Selangor
+黄秀金 校友 A/T 0612 NG SAU KHENG No.282. Jalan Kijang 2, Bt8 3/4, Taman Suntex, 43200 Cheras, Selangor
+高彩方 校友 A/T 0613 KHOO CHAI HONG No.123, Kg Baru Bangi, 43000 Kajang, Selangor
+许爱梅 校友 A/T 0614 KOH AI BOEY No.10, Jalan Bukit Mewah 7, Taman Bukit Mewah, 43000 Kajang, Selangor
+刘秀月 校友 A/T 0615 LAU SIEW GUAT No.54, Jalan 2, Desa Bunga Raya, 43000 Kajang, Selangor
+李启福 校友 A/T 0616 LEE KAY HUAT No.19, Jalan Seroja, Taman Setia, Sg Chua, 43000 Kajang, Selangor
+林良材 校友 A/T 0617 LIM LEONG CHAI No.28, Taman Lee Yen Kee, Sg Chua, 43000 Kajang, Selangor
+叶秀云 校友 A/T 0618 YAP SEW YON No.3, Jalan 2, Desa Ros, 43000 Kajang, Selangor
+谢文珍 校友 A/T 0619 SIAH BOO TING No.67, 16B, Jalan 11, Taman Kajang Baru, 43000 Kajang, Selangor
+甘友宏 校友 A/T 0620 KAM YIEW FAN No.178, Jalan 6, Taman Sri Semenyih, 43500 Semenyih, Selangor
+陈进强 校友 A/T 0621 TAN CHIN KEONG No.185, Jalan 7, Taman Kajang Jaya, Jalan Bukit, 43000 Kajang, Selangor
+孙美发 校友 A/T 0622 SOON MEE FATT No.42, Jalan Sulaiman, 43000 Kajang, Selangor
+王亚芳 校友 A/T 0623 WONG AH PONG No.21, Jalan Asa 4, Taman Asa Jaya, 43000 Kajang, Selangor
+李万辉 校友 A/T 0624 LEE BAN HUI No.101-104, Kawasan Pasar Lama, 43000 Kajang, Selangor
+陈国铁 校友 A/T 0625 TAN KOK TEEK No.7, Jln 9B, Cheras Jaya, 43000 Kajang, Selangor
+邓爱义 校友 A/T 626 CHIN OI YEE No.52, Desa Kiambang, 43000 Kajang, Selangor
+何惠琴 校友 A/T 0628 HO FOI KIM No.30, Jalan Reko， 43000 Kajang, Selangor
+李贵兴 校友 A/T 0629 LEE KIW HONG No.20, Taman Intan, 43000 Kajang, Selangor
+杨美钏 校友 A/T 630 YEO BEE CHUEN No.26, Jalan Asa 15, Taman Asa Jaya, 43000 Kajang, Selangor
+周金玉 校友 A/T 0631 CHEW KIM YOKE D132, Taman Bukit, Jalan Bukit, 43000 Kajang, Selangor
+刘镇强 校友 A/T 0632 LAW CHIN KEONG No.1, Jalan 1/7A, B.B.B., 43000 Bangi, Selangor
+谢德钊 校友 A/T 0633 SIA TUCK CHEW No.59, Taman Sg Chua, 43000 Kajang, Selangor
+宋容春 校友 A/T 0634 SOONG YIN CHOONG No.35, Jalan Raja Haroun, 43000 Kajang, Selangor
+陈佩梅 校友 A/T 0635 TAN PEE MOI No.62, Jalan Dua, Taman Aik Ann, 43500 Semenyih, Selangor
+饶来香 校友 A/T 636 YAP LOY HEONG No.129A,Ladang Sungai Purun, Batu 189, 43500 Semenyih, Selangor
+许惜梅 校友 A/T 637 KOH SIP BOI No.10,Jalan Bukit Mewah 7, Taman Bukit Mewah, 43000 Kajang, Selangor
+吴宝琼 校友 A/T 638 NG POH KENG 10, Jalan Puteri 6/11, Bandar Puteri Puchong, 47100 Puchong, Selangor
+张梅香 校友 A/T 639 CHONG MOI HEONG No.1, Jalan 75, Fasa 8, Taman Bukit Mewah, 43000 Kajang, Selangor
+彭观生 校友 A/T 640 PANG KUAN SANG No.1, Jalan 75,Fasa 8, Taman Bukit Mewah, 43000 Kajang, Selangor
+赵丽玲 校友 A/T 643 TEOH LAY CHIN No.3, Jalan Indah 4, Taman Indah, Sg Jelok, 43000 Kajang, Selangor
+曾凡晏 校友 A/T 645 CHEN FUN YEN No.19, Jln 7, Taman Hiew Piew, 43500 Semenyih, Selangor
+叶雅 校友 A/T 646 YET NGA No.153, Jalan Langat 9, Taman Seri Langat, 43000 Kajang, Selangor
+骆冠瑜 校友 A/T 648 LOK KON YEE No.15, Jalan Jelok Indah 2, Taman Jelok Indah, 43000 Kajang, Selangor
+罗天保 校友 A/T 649 LOO THIAM PAU No.367, Sg Chua, 43000 Kajang, Selangor
+黄金妹 校友 A/T 650 ENG KIM MOY No.119, Taman Sg Chua, 43000 Kajang, Selangor
+刘婉清 校友 A/T 0651 LIEW WAN CHIN No.117, Jalan Bangan, Taman Bereley, 41150 Klang, Selangor.
+蔡丽玉 校友 A/T 0652 CHUA LEE GEK No.18, Jalan Bukit Mewah 12, Taman Bukit Mewah, 43000 Kajang, Selangor
+许朝亮 校友 A/T 653 KOH CHEEW LIANG No.11, Taman Pinggiran, 43000 Kajang, Selangor
+黄文赞 校友 A/T 654 NG BOON CHAN No.136, Jalan Bukit, 43000 Kajang, Selangor
+郑长益 校友 A/T 655 TEH TEONG YIKE No.114, Taman Keng Lee, Jalan Reko, 43000 Kajang, Selangor
+谢添星 校友 A/T 656 SIA THIAM SING No.59, Taman Sg Chua, 43000 Kajang, Selangor
+陈丽玲 校友 A/T 657 TAN LEE LENG No.73, Jalan 2, Kajang Jaya, 43000 Kajang, Selangor
+万富元 校友 A/T 658 WAN FOO YEAN No.652, Sg Chua, 43000 Kajang, Selangor
+张月珠 校友 A/T 659 CHONG NGEK CHOO No.504, Sg Chua, 43000 Kajang, Selangor
+李成福 校友 A/T 660 LEE CHYE @ LEE SENG HOCK No.330, Jalan Reko, 43000 Kajang, Selangor
+陈少平 校友 A/T 661 CHIN SAU PIN No.64, Desa Kiambang, Sg Chua, 43000 Kajang, Selangor
+万家安 校友 A/T 663 BAN AH KAM No.159, Jalan 2, Kajang Jaya, 43000 Kajang, Selangor
+何志明 校友 A/T 664 HO CHEE WENG No.26, Jalan Asa 15, Taman Asa Jaya, 43000 Kajang, Selangor
+李梅英 校友 A/T 665 LEE MOY YING No.139, Jalan 4, Taman Seri Langat, 43000 Kajang, Selangor
+白淑香 校友 A/T 666 POH SO HENG Lot 41T, Belakang Desa Seroja, Jalan Reko, 43000 Kajang, Selangor
+王国清 校友 A/T 667 WONG KOK CHIN No.10, Ladang Broome, Bangi, 43000 Kajang, Selangor
+陈喜宋 校友 A/T 668 TAN HEE SANG No.1, Lot 17/14, Jalan Reko, 43000 Kajang, Selangor
+陈润强 校友 A/T 669 CHIN YUEN KEONG Lot.5812/5, Taman Bangi, Jalan Reko, 43000 Kajang, Selangor
+伍云兴 校友 A/T 670 NG WAN HING No.35, Jalan Senjolong, Taman Bukit Ria, 56100 Kuala Lumpur
+许洪福 校友 A/T 671 KOH YANG HOCK No.23, Jalan Bukit Mewah 7, Taman Bukit Mewah, 43000 Kajang, Selangor
+章文耀 校友 A/T 672 CHONG BOON YEOW No.125, Jalan Reko, 43000 Kajang, Selangor
+陈善伟 校友 A/T 673 CHIN SUN VEE No.125, Jalan Reko, 43000 Kajang, Selangor
+蔡碧湘 校友 A/T 674 CHUA PIH SIANG No.13, Jalan Bunga Tanjong, Taman Setia, Sg Chua, 43000 Kajang, Selangor
+骆宝龙 校友 A/T 675 LOK PAO LONG No.43, Sg Chua, 43000 Kajang, Selangor
+曾德强 校友 A/T 676 CHEN TECK KEONG No.25A,Jln Pelandok 1, Taman Suntex, 43200, Cheras, Selangor
+游素婷 校友 A/T 677 EIEW SOO TING No.18, Jalan SL 7/11, Bandar Sg Long, 43000 Kajang, Selangor
+梁伟君 校友 A/T 678 LEONG WE KEOON No.331, Kampung Baru, 43500 Semenyih, Selangor
+卓丽芬 校友 A/T 679 CHOK LEE FOON No.14, Jalan 7, Taman Kajang Raya, 43000 Kajang, Selangor
+李慧芳 校友 A/T 680 LEE FUI FONG No15, Taman Kota, Jalan Sg Chua, 43000 Kajang, Selangor
+陈玲晶 校友 A/T 681 TAN LIM CHEN No.36,Jalan Bukit Mewah 18, Taman Bukit Mewah, 43000 Kajang, Selangor
+章健合 校友 A/T 682 CHONG KIAN HAP S-8, Taman Indah, Batu 11, Cheras, 43200 Kajang, Selangor
+李金峰 校友 A/T 683 LEE KIM HONG No.88, Taman Sg Chua, 43000 Kajang, Selangor
+刘娇镁 校友 A/T 684 LAW KAEW BEE No.31, Jalan Baru 4, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+李良水 校友 A/T 685 LEE LEONG CHOOI 27, Jalan Intan 5, Taman Sri Intan, Jalan Reko, 43000 Kajang, Selangor
+李金云 校友 A/T 686 LEE KIM HOON Lot 38-D, Desa Seroja, Jalan Reko, 43000 Kajang, Selangor
+曾秀宝 校友 A/T 687 CHAN SIEW POH No 124, Desa Seroja, Jalan Reko, 43000 Kajang, Selangor
+叶立强 校友 A/T 688 YAP LAP KEONG No.E 3-1, Jalan Sg Jelok 1, Rumah Pangsa, Taman Sentosa, 43000 Kajang, Selangor
+刘福 校友 A/T 689 LOW HOCK No.898, Sg Chua, 43000 Kajang, Selangor
+谢文城 校友 A/T 690 SIA BOON SEAH No.45, Jalan 1, Taman Sg Jelok, 43000 Kajang, Selangor
+章涵凌 校友 A/T 691 CHONG AH NEE No.100, Jalan 2, Bt 9, Kg Baru Cheras, 43200 Kajang, Selangor
+古顺友 校友 A/T 692 KOO SOON YEOW No. 99, Taman Sg Chua, 43000 Kajang, Selangor
+庄舜兰 校友 A/T 694 CHING SOON LAN No.32, Taman Selamat Bt 14, 43000 Kajang, Selangor
+许介 校友 A/T 695 HOOI KAI No.53, Sg Chua, 43000 Kajang, Selangor
+丘贵育 校友 A/T 0696 AH FATT Lot 1275-4, Jalan Tuanku Hisamuddin, 43000 Kajang, Selangor
+叶国成 校友 A/T 0697 YAP KOK SENG Lot 105, Jalan Resak Palm Glove, Klang, Selangor
+陈承发 校友 A/T 699 TAN SENG HUAT No.39, Jalan Mendaling, 43000 Kajang, Selangor
+官玉建 校友 A/T 700 KWAN YOKE KIAN No.79, Jalan Lemak, Taman Segar, Cheras, 56100 Kuala Lumpur
+刘玉虹 校友 A/T 701 LOW YOKE HONG No.79, Jalan Lemak, Taman Segar, Cheras, 56100 Kuala Lumpur
+罗瑞璋 校友 A/T 702 LOW SWEE CHONG No.948, Jalan Sg Chua, 43000 Kajang, Selangor
+管国华 校友 A/T 703 PETER KON KWEK FAH No.12-A, Jalan PJS 7/24, Bandar Sunway, 46150 Petaling Jaya, Selangor
+黄妙华 校友 A/T 704 NG MEOW WAH No.12-A, Jalan PJS 7/24, Bandar Sunway, 46150 P.J, Selangor
+黄英盛 校友 A/T 705 NG ENG SENG No.73, Desa Bunga Raya, 43000 Kajang, Selangor
+涂敏燕 校友 A/T 706 TOO BEE YEN Lot 1275-4, Jalan Tuanku Hisamuddin, 43000 Kajang, Selangor
+王发财 校友 A/T 707 ONG FATT CHAI No.187, Bt 11, Cheras, 43200 Kajang, Selangor
+曾金骅 校友 A/T 708 CHEN KIM FAH No.284, Jalan Reko, 43000 Kajang, Selangor
+李玉发 校友 A/T 709 LEE YOKE WAN No.6, Jalan Jelita 1, Taman Jelita, 43000 Kajang, Selangor
+萧金兰 校友 A/T 710 SIEW KIM LAN No.7, Jalan SS 3/49, 47300 Petaling Jaya, Selangor
+李添吉 校友 A/T 711 LEE TIAM KET Lot. PT 11377 To PT 11382, Bt 14, Jalan Cheras, 43000 Kajang, Selangor
+黄钦廷 校友 A/T 712 WONG CHIN TING No.32 (1st&2nd Floor), Jalan Lumut,Off Jalan Ipoh, Damai Complex, 50400 Kuala Lumpur
+梁丽齡 校友 A/T 715 NEO LEE LING No.7, Jln.PP1,Perdana Height, Taman Cheras Perdana, 43200 Selangor
+李良溪 校友 A/T 716 LEE LEONG KHAY No.42, Persiaran Damai 6, Kajang Utama Fasa 2, 43000 Kajang, Selangor
+苏松然 校友 A/T 717 SOO CHANG YIN No.21, Jalan Megah 8, Taman Megah, Sg Jelok, 43000 Kajang, Selangor
+许涞喜 校友 A/T 718 HEE LAI HIN No.9, Jalan Jelita 3, Taman Jelita, 43000 Kajang, Selangor
+龚景华 校友 A/T 719 KONG KIM HUA No.17,Jalan Bukit Mewah 19 Taman Bukit Mewah, 43000 Kajang, Selangor
+谢直青 校友 A/T 720 SIA CHEE SIAM No.33,Jln Mulia 3, Taman Kajang Mulia, 43000 Kajang, Selangor
+张淑清 校友 A/T 721 TEO SOCK CHENG 61-A, Taman Sri Reko, Jalan Reko, 43000 Kajang, Selangor
+李慧仪 校友 A/T 722 LEE FUI YEE No.11A, Green Ward, 71700 Mantin, Negeri Sembilan
+邓志光 校友 A/T 723 TENG CHEE KONG No.11, Taman Selamat, Batu 14, 43000 Kajang, Selangor
+陈美凝 校友 A/T 724 CHAN MEE YENG 11, Jalan 2, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+李良溪 校友 A/T 716 LEE CHIN LYE @ LEE LEONG KHAY No.42, Persiaran Damai 6, Kajang Utama Fasa 2, 43000 Kajang.
+杜美缃 校友 A/T 725 TOH MUI HIONG No.5, Jalan 1D, Taman Angkasa Indah, 43000 Kajang, Selangor
+刘志豹 校友 A/T 726 LOW CHEE PAR No.5, Jalan Villi 2, Taman Anggerik, Off Jalan Semenyih, 43000 Kajang, Selangor
+林琥堡 校友 A/T 727 LIM HOCK FOO No.2A, Taman Selamat, Batu 14, Jalan Cheras, 43000 Kajang, Selangor
+陈龙水 校友 A/T 728 TAN LING SWEE No.262, Jalan Jasmin 10, Taman Jasmin, 43000 Kajang, Selangor
+周志强 校友 A/T 729 CHEW CHEE KIONG No.219, Kajang Jaya, Jalan Bukit, 43000 Kajang, Selangor
+王明枝 校友 A/T 730 ONG LIAN KEE No.115, Jalan 4, Taman Desa Bunga Raya, 43000 Kajang, Selangor
+王明新 校友 A/T 731 ONG BING SIN No.65, Taman Sg Chua, 43000 Kajang, Selangor
+辜丽华 校友 A/T 732 KOH LEE WAH No.3, Jalan Melati 24, Taman Sri Melati, 68100 Batu Caves.
+王英宝 校友 A/T 733 ONG ENG POH No.29, Jalan 7, Taman Indah, Sg JeloK, 43000 Kajang, Selangor
+刘丽珍 校友 A/T 734 LOW LAY CHIN No.25, Jalan 11, Taman Jelok Indah, Sg Jelok, 43000 Kajang, Selangor
+邓韶杰 校友 A/T 735 TAN SIEW KIT No 166, Jalan Reko, Taman Sg Mas, 43000 Kajang, Selangor
+梁成进 校友 A/T 736 LEONG SING CHOON No.14, Jalan 19, Taman Bukit Mewah, 43000 Kajang, Selangor
+梁广朱 校友 A/T 737 LEONG KWONG JU No. 20, Tmn Sg Mas, Off Jln Reko, 43000 Kajang, Selangor
+黄雪珠 校友 A/T 738 NG SAI CHOO Lot 2202, Sg Jelok, 43000 Kajang, Selangor
+陈翠华 校友 A/T 739 CHIN CHOOI WAH No.64, CP2/12, Cheras Perdana, 43200 Cheras, Selangor
+彭可梅 校友 A/T 740 PANG KOW MOY No.302, Kg Baru Balakong, 43300 Sg Besi, Selangor
+许爱玉 校友 A/T 741 KOH AI GEK No.20, Jalan Bukit Mewah 20, Taman Bukit Mewah, 43000 Kajang, Selangor
+许爱萍 校友 A/T 742 KOH AI PENG No.748, Sg Chua, 43000 Kajang, Selangor
+陈志发 校友 A/T 743 TAN CHAI HUAT No.7, Lot 1202 G/2, Taman Cahaya, Sg Chua, 43000 Kajang, Selangor
+吕国雄 校友 A/T 744 LEE KOK SOONG No.36, Jalan Kajang 2, Taman Sri Kajang, 43000 Kajang, Selangor
+游永济 校友 A/T 745 EIEW ENG CHEE No.18, Jalan SL 7/11, Bandar Sg Long, 43000 Kajang, Selangor
+杨静来 校友 A/T 746 LONG CHIN LOI Lot 38D,Belakang Tmn Hijau, Jalan Reko, 43000 Kajang, Selangor
+陈万泉 校友 A/T 747 TAN LAI CHUAN No.1, Jalan Cahaya 8, Taman Cahaya, 68000 Ampang.
+林瑞卿 校友 A/T 748 LIM SWEE KENG No.1, Jalan Cahaya 8, Taman Cahaya, 68000 Ampang.
+魏秀花 校友 A/T 749 GUI SEW HWA Lot.26, Jalan 7/6, Seksyen 7, 43650 Bandar Baru Bangi, Selangor
+李良赞 校友 A/T 750 LEE LEONG CHAN Lot 195A58, Kwan Tung Bahru, Sg Chua, 43000 Kajang, Selangor
+丘金彩 校友 A/T 751 HEW KIM CHOY No.40, Jalan Semgaring, Taman Tenaga Batu 3 1/2, Jalan Cheras, 56000 Kuala Lumpur
+李文添 校友 A/T 752 LEE VOON THIAM Lot.1616, Jalan Sg Chua, Kajang Baru, 43000 Kajang, Selangor
+叶伟良 校友 A/T 753 YAP WEE LEONG No.57, Jalan Villa 10, Anggerik Villa, 43000 Kajang, Selangor
+林云龙 校友 A/T 755 LIM WAN LOONG No.68, Bukit Angkat, 43000 Kajang, Selangor
+吴碧友 校友 A/T 756 No.27, Jalan Kijang Satu, Taman Suntex, Bt.9 Cheras, 43200 Kajang, Selangor
+沈虹云 校友 A/T 757 SIM HONG ENG No.17, Jalan Zamrud 1, Taman Zamrud, 43000 Kajang, Selangor
+张美云 校友 A/T 758 CHEONG MEI WAN No.22,Jalan Ahliman 2/124A, Taman Connaught, 56000 Cheras, Kuala Lumpur
+吴志超 校友 A/T 759 WU CHEE CHOW No.32, Jalan Tempinis Satu, Taman Lucky, 59100 Kuala Lumpur.
+黄丽珠 校友 A/T 760 WONG LAI CHEE No.45, Jalan Bkt Mutiara 7, Taman Bukit Mutiara, 43000 Kajang, Selangor
+林梅贞 校友 A/T 761 LIM MUI TIN No.9, Jalan Minang Satu, Taman Sri Minang, 43000 Kajang, Selangor
+凌启雄 校友 A/T 762 LIM KHEY HOONG No.35, Jln Bkt Mewah 2, Taman Bukit Mewah, 43000 Kajang, Selangor
+邹添水 校友 A/T 763 CHEW THAM SWEE No.93, Jalan DM6, Taman Desa Mewah, 43500 Semenyih, Selangor
+池德康 校友 A/T 764 CHI TECK FATT No.912, Jalan Sg Chua, 43000 Kajang, Selangor
+林瑞英 校友 A/T 765 LIM SWEE ENG No.66, Jalan Jasmin 8, Taman Jasmin, 43000 Kajang, Selangor
+姜丽娟 校友 A/T 766 KEOH LAY KHUAN No.62, Jalan 3, Taman Bukit Mewah, 43000 Kajang, Selangor
+陈秀蓉 校友 A/T 767 TAN SIEW YOONG No.109, Desa Seroja, Jalan Reko, 43000 Kajang, Selangor
+郑粉英 校友 A/T 768 TEE HONG ENG No.174-B, Jalan Reko, 43000 Kajang, Selangor
+刘国兴 校友 A/T 769 LOW KOK HENG No.3, Jalan Jelok Indah 11, Taman Jelok Indah, Sg Jelok, 43000 Kajang, Selangor
+骆木胜 校友 A/T 770 LOK MOOK SING No.105, Taman Kajang Baru, Sg Chua, 43000 Kajang, Selangor
+骆添胜 校友 A/T 773 LOCK THIM SING No.47, Taman Sri Reko, 43000 Kajang, Selangor
+萧友祥 校友 A/T 774 SIAW YEW SEONG No.10, Jalan Baru 5, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+辜芳源 校友 A/T 775 KOH FONG GUAN No.28,Jalan KP 3/1, Kajang Prima, 43000 Kajang, Selangor
+邓秀英 校友 A/T 777 THIN SEW YING No.47, Jalan MAS 5, Taman Cheras Mas, 43200 Kajang, Selangor
+吴玉娇 校友 A/T 778 NG YOKE KIOW No.1, Jalan 3/11, Bandar Teknologi Kajang, 43500 Semenyih, Selangor
+倪美华 校友 A/T 779 GOAY MEY HOOI 20, Jalan Kajang Mulia 4, Taman Kajang Mulia, 43000 Kajang, Selangor
+姚美丽 校友 A/T 780 MARY YOW S.R.J.K., Jalan Low Ti Kok, 43000 Kajang, Selangor
+戴文玲 校友 A/T 781 TAI WOON LING No.190, Bt 11, Jalan Cheras, 43200 Kajang, Selangor
+李金文 校友 A/T 782 LEE KIM NEN No.2, Jalan 7, Taman Sri Jelok, 43000 Kajang, Selangor
+谢翠英 校友 A/T 783 NUR MARINI SIA BT ABDULLAH No.16, Jalan 8, Taman Kajang Baru, 43000 Kajang, Selangor
+陈文发 校友 A/T 784 TAN BOON FATT No.14,Taman Desa Muhibbah Bt 13, Jalan Cheras, 43000 Kajang, Selangor
+林驯发 校友 A/T 785 LIM SOON HUAT No.11A, Jalan Permai 2, Taman Permai, 43000 Kajang, Selangor
+彭发 校友 A/T 786 PANG FATT No.86, Kg. Baru, Bt 9, 43200 Cheras, Selangor
+李真 校友 A/T 787 LEE CHUN No.2,Jalan 2/1, Tmn Sri Indah,Jln Balakong, 43000 Kajang, Selangor
+李志华 校友 A/T 788 LEE ENG TEN No.126, Bt 9 Cheras, 43200 Cheras, Selangor
+钟运发 校友 A/T 789 CHONG YOON FATT No.663, Sg Chua, 43000 Kajang, Selangor
+叶寿青 校友 A/T 790 YAP SOO CHEANG Lot.508, Jalan Bangi, 43500 Semenyih, Selangor
+曾庆明 校友 A/T 791 CHEN KHIN MIN No.103, Taman Gembira, 43500 Semenyih, Selangor
+黄宝兰 校友 A/T 792 ENG POH LAN No.5118, Jalan 9, Taman Kajang Baru, 43000 Kajang, Selangor
+卢来福 校友 A/T 793 LOR LAI HOK No.7, Jalan Damai 1, Taman Damai Indah, 43000 Kajang, Selangor
+陈秀英 校友 A/T 794 TAN SIEO ENG No.3, Jalan 33, Taman Bukit Mewah, 43000 Kajang, Selangor
+龚美蓉 校友 A/T 795 KONG PEE YONG No.70,Jln Ceria 25/113, Taman Sri Muda, 40400 Shah Alam, Selangor
+龚义德 校友 A/T 796 KONG YEE TECK No.119, Jalan Reko, 43000 Kajang, Selangor
+黎佛生 校友 A/T 797 LAI FOT SANG No.21, Jalan 42, Taman Bukit Mewah, 43000 Kajang, Selangor
+陈志凤 校友 A/T 798 TAN CHEE HOONG No.26, Jalan Muhibbah 11, Taman Muhibbah, 43000 Kajang, Selangor
+龚芳珠 校友 A/T 799 KONG FOONG CHOO No.103, Taman Gembira, 43500 Semenyih, Selangor
+曾金莲 校友 A/T 800 CHEN KIM LIAN No.23, Jalan Asa 2, Taman Asa Jaya, 43000 Kajang, Selangor
+张顺莲 校友 A/T 801 CHONG SOON LIAN No.6, Jalan Muhibbah 1, Taman Muhibbah, 43000 Kajang, Selangor
+龚承章 校友 A/T 802 KONG SIN CHUAN No.3, Jalan SL 6/7, Bandar Sg Long, 43200 Cheras, Selangor
+黄永祥 校友 A/T 803 NG ENG SEONG No.86, Jalan Langat 8, Taman Seri Langat, Jalan Reko, 43000 Kajang, Selangor
+许雪云 校友 A/T 804 KOH SET NGIN No.1016, Jalan Jasmin 30, Taman Jasmin, 43000 Kajang, Selangor
+林启源 校友 A/T 805 LIM KAY GUAN No.139, Jalan 4, Taman Seri Langat, Jalan Reko, 43000 Kajang, Selangor
+赖灶全 校友 A/T 806 LAI CHOU CHUAN No.97, Jalan Langat Satu, Taman Seri Langat, Jalan Reko, 43000 Kajang, Selangor
+李进山 校友 A/T 807 LEE CHIN SUN No.86, Jalan Lima, Tamam Berjaya, 43000 Kajang, Selangor
+李淑卿 校友 A/T 808 LEE SHOK CHEN No.2, Jalan Ria 4, Taman Kajang Ria, 43000 Kajang, Selangor
+曾庆康 校友 A/T 809 CHEN KIN KANG No.10, Desa Kekwa, Sg Chua, 43000 Kajang, Selangor
+杨锦鸿 校友 A/T 810 YONG KIM HONG No.120, Desa Seroja, Off Jalan Reko, 43000 Kajang, Selangor
+李统治 校友 A/T 811 LEE TOONG TYE Lot.12/3B, Jalan Reko, Belakang Desa Seroja, 43000 Kajang, Selangor
+曾福祥 校友 A/T 812 CHEN FOOK SEONG No.602, Sg Chua, 43000 Kajang, Selangor
+叶信 校友 A/T 813 YIP SHIN 30PT474, Jalan Saga 5, Taman Sri Saga, Sg Chua, 43000 Kajang, Selangor
+赵亚福 校友 A/T 814 TEO AH HOCK No.21, Jalan 30, Taman Bukit Mewah, 43000 Kajang, Selangor
+徐庆忠 校友 A/T 815 CHEE KENG TONG No.15, Jalan Muhibbah, 43000 Kajang, Selangor
+梁广翔 校友 A/T 816 LEONG KONG SEONG No.43, Jalan 9/149D, Sri Petaling, 57000 Kuala Lumpur
+吴观生 校友 A/T 817 NG KON SANG No.9A, Taman Permai, Jalan Bangi, 43500 Semenyih, Selangor
+黄隆华 校友 A/T 818 NG LEONG HWA No.108, Lorong Kaskas, Taman Cheras, 56100 Kuala Lumpur
+饶秀明 校友 A/T 819 GIAN SIEW MENG No.3,Jln Ｍutiara 6, Taman Mutiara, Cheras, 56000 Kuala Lumpur
+李来栋 校友 A/T 820 LEE LAI THONG No.21, Jalan 5, Taman Sri Jelok, 43000 Kajang, Selangor
+李金针 校友 A/T 821 LEE KIM CHAN No.165, Jalan 2/8, Taman Villa Height II, 43000 Kajang, Selangor
+洪美英 校友 A/T 0822 ANG BEE ENG No.18, Jalan 7, Taman Maju 2, 43000 Kajang, Selangor
+黄秀玲 校友 A/T 0823 WONG SIEW LENG Block 10-0-4, Taman Kobena, 4/92B Cheras, 43200 Cheras, Selangor
+黄国才 校友 A/T 0824 NG KOK CHAI No.49, Jalan Besar, 43500 Semenyih, Selangor
+黄雪芳 校友 A/T 0825 NG SUET HONG Lot 25271, Kg Aman Bangi, 43000 Kajang, Selangor
+李锦顺 校友 A/T 0826 LEE KIM SOON SD1, Jalan 6/6. Taman Indah, Bt 11 Cheras, 43200 Cheras, Selangor
+叶贻添 校友 A/T 0827 YAP YEE THIAM No.11, Jalan 7, Taman Sg Jelok, 43000 Kajang, Selangor
+陈国倡 校友 A/T 0828 CHAN KOK CHEONG No.4, Jalan Besar, 43500 Semenyih, Selangor
+刘来顺 校友 A/T 0829 LAW LAY SOON No.5, Jelok Ria 2, Taman Jelok Ria, 43000 Kajang, Selangor
+周稳心 校友 A/T 0830 CHEW AUN SIM No.25, Jalan KP2/18, Kajang Prima, 43000 Kajang, Selangor
+周剑琴 校友 A/T 0831 CHIEW KIANG KENG No.35, Jalan Bukit Mewah 1 Taman Bukit Mewah, 43000 Kajang, Selangor
+丘雪莹 校友 A/T 0832 HIEW SIAT YING No.104, Jalan 2, Desa Bunga Raya, 43000 Kajang, Selangor
+黄奕华 校友 A/T 0834 WONG YOKE FAH No. 196, Kampung Baru, 43500 Semenyih, Selangor
+黄婉湄 校友 A/T 0835 WONG YUEN MEI No. 12, Jalan KP2/8, Taman Kajang Prima, 43000 Kajang, Selangor
+林泽民 校友 A/T 0835 LIM CHAK MENG No. 3, Jalan Delima 1, Taman Sri Nanding, 43100 Hulu Langat, Selangor
+庄华兴 校友 A/T 837 CHONG FAH HING No.21,Jalan Bukit Mewah 54, Taman Bukit Mewah, 43000 Kajang, Selangor
+孙宇中 校友 A/T 0838 SOON YEE CHOOK No. 2A, Jalan KP2/10, Taman Kajang Prima, 43000 Kajang, Selangor
+王玉凤 校友 A/T 0839 ONG YOKE FOONG No.112A, Jalan Baru 15 , Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+柯桂兰 校友 A/T 0840 QUAH HOOI LAN No. 39, Jln Megah, Tmn Megah, Sg Jelok, 43000 Kajang, Selangor.
+张梅意 校友 A/T 0841 CHONG MUI YEE No. 3, Jalan 75, Taman Bukit Mewah, 43000 Kajang, Selangor.
+欧阳美 校友 A/T 0842 EAN YONG MUI 102,Jalan Baru 15, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+刘菁菁 校友 A/T 0843 LOW CHENG CHENG 23,Jalan Baru 3, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+林文启 校友 A/T 0844 LIM BOON KHAY 139, Jalan 4, Taman Sri Langat, 43000 Kajang, Selangor
+周玉安 校友 A/T 0845 CHEW GEOK ANN 62,Jalan 4, Tmn Kajang Baru, Sg Chua, 43000 Kajang, Selangor
+张锦雯 校友 A/T 0846 CHANG KIM BOON 50,Jalan S-4, Taman Sakapp, 43000 Kajang, Selangor
+颜美勉 校友 A/T 0847 GAN BEE BIN 20,Jalan 2, Taman Kajang Mulia, 43000 Kajang, Selangor
+李振义 校友 A/T 0848 LEE JIN GEE 12A, Jalan Tenaga 5, Taman Tenaga, 43000 Kajang, Selangor
+郑明坚 校友 A/T 0849 TEH MING KUAN 5, Jalan Mendaling, 43000 Kajang, Selangor
+李万行 校友 A/T 0850 LEE BAN SENG 3A,Jalan Jelita 3, Taman Jelita, 43000 Kajang, Selangor
+李健强 校友 A/T 0851 LEE KIEN KEONG 84,Jln Tuanku Hishamuddin 43000 Kajang, Selangor
+李连袋 校友 A/T 0852 LEE LIAN THAI 102A, Jalan 3/13C, Taman Kajang Utama, 43000 Kajang, Selangor
+丘子汉 校友 A/T 0854 HIEW TZE HAN No1,Jalan Pekeliling Aman 2, Taman Kajang Utama, 43000 Kajang, Selangor
+罗绍倡 校友 A/T 0855 YOH SOW CHEONG No 20,Jalan SL3/2, Bandar Sungai Long, 43000 Kajang, Selangor
+黄贵平 校友 A/T 0856 WONG KWA PENG No 33,Jalan 1, Tmn Kajang Raya,Sg.Chua, 43000 Kajang, Selangor
+陈佩英 校友 A/T 0857 TAN PEI ING 3-7-1,Condo Sri Kia Peng, Changkat Kia Peng, 50450 Kuala Lumpur
+唐师良 校友 A/T 0858 TONG SWE LEONG M1-05-11， Taman Bukit Mutiara, 43000 Kajang, Selangor
+陈润强 校友 A/T 0859 CHIN YUEN KEONG 50, Jln.Bukit Mutiara 6, Taman Bukit Mutiara, 43000 Kajang, Selangor
+黄贵发 校友 A/T 0860 WONG KWEE FATT Lot 195,B8-C1, Kwangtung Baru,Sg.Chua, 43000 Kajang, Selangor
+曾瑞龙 校友 A/T 0861 CHEN SWEE LOONG No 125,Jalan 3, Taman Sri Jelok, 43000 Kajang, Selangor
+章金坡 校友 A/T 0862 CHONG KIM KUNG 38, Jalan 29, Taman Bukit Mewah, 43000 Kajang, Selangor
+丘思莹 校友 A/T 0864 HIEW SEE YING 42,Jalan Sg.Keramat 38, Taman Klang Utama, 42100 Klang, Selangor
+李志强 校友 A/T 0865 LEE CHEE KEONG 108, Jalan Reko, Taman Sri Langat, 43000 Kajang, Selangor
+罗秋俊 校友 A/T 0866 LOH CHEW JUNE 15, Jalan 3, Taman Sri Bukit, 43000 Kajang, Selangor
+李桃福 校友 A/T 0867 LEE TOH FOOK 19,Jln.Pekeliling Aman 10, Taman Kajang Utama, 43000 Kajang, Selangor
+李德发 校友 A/T 0868 LEE TACK FATT No 3, Jalan Seksyen 3/26, Taman Kajang Utama, 43000 Kajang, Selangor
+郑月凤 校友 A/T 0869 TEH GUAT HONG No 9, Jalan 16/B, Taman Jasmin II, 43000 Kajang, Selangor
+李玉宝 校友 A/T 0870 LEE YOKE FOO No 6, Jalan Jelita 1, Taman Jelita, Jln.Reko, 43000 Kajang, Selangor
+李萃玫 校友 A/T 0871 LEE TSUEY MUI No 126, Desa Seroja, Jalan Reko, 43000 Kajang, Selangor
+欧玉凤 校友 A/T 0872 AU YOKE FONG No 70, Taman Permai, 43500 Semenyih, Selangor
+黄种文 校友 A/T 0873 NG CHONG MOON No 56, Jln.Bukit Mewah 60, Taman Bukit Mewah, 43000 Kajang, Selangor
+黄黛娣 校友 A/T 0874 WONG TAI DEA 28, Jalan Kajang Mulia 4, Taman Kajang Mulia, 43000 Kajang, Selangor
+倪恩平 校友 A/T 0875 GAY YEN PING 89,Jalan Prima Saujana 1/3, Tmn.Prima Saujana, 43000 Kajang, Selangor
+叶翠萍 校友 A/T 0876 YAP CHOV PENG 29, Jalan Bidara 3, Taman Bidara, Sungai Chua, 43000 Kajang, Selangor
+祝家丰 校友 A/T 0877 THOCK KER PONG 256, Jalan Jasmin 10, Taman Jasmin, 43000 Kajang, Selangor
+刘宝萍 校友 A/T 0878 LEW POH PENG 24, Jln.Impian Gemilang 1/3, Saujana Impian, 43000 Kajang, Selangor
+凌丽芳 校友 A/T 0879 LIN LEE FONG 6, Jalan Desa Mewah 3, Desa Mewah, 43500 Semenyih, Selangor
+曾丽心 校友 A/T 0880 CHIANG LEE TSHIN 21, Jalan Inang 9/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor
+朱淑婷 校友 A/T 0882 CHOO SAW TENG 15, Jalan Berlian 2, Taman Berlian, Sg.Jelok, 43000 Kajang, Selangor
+温詠慧 校友 A/T 0883 WOON YUEN FUI 5,Jalan Bukit Mewah 39, Taman Bukit Mewah, 43000 Kajang, Selangor
+梁静诗 校友 A/T 0884 LEONG CHING SZE B-10, Jalan 8, Kampung Baru, 43500 Semenyih, Selangor
+杜国良 校友 A/T 0885 THOO KOK LEONG 46, Jalan SL 4/7, Bandar Sungai Long, 43000 Kajang, Selangor
+陈爱娟 校友 A/T 0886 TAN AI KIAN 47, Jalan BJ 2, Taman Baiduri Jaya, 43500 Semenyih, Selangor
+王锦珍 校友 A/T 0887 ONG GIM TIN 1, Jalan KP 3/2, Taman Kajang Prima, 43000 Kajang, Selangor
+陈奕郿 校友 A/T 0888 TAN YOKE BER 15, Jalan 2/12, Bandar Sunway Semenyih, 43500 Semenyih, Selangor
+陈克芳 校友 A/T 0889 TAN KEK HONG 2, Jalan Dayang 50/8, Taman Mahkota Cheras, 43000 Kajang, Selangor
+幸贵侨 校友 A/T 0890 HEW YET KEOW 2A, Jalan 9/9, Fasa 9, Taman Bukit Mewah, 43000 Kajang, Selangor
+陈国雄 校友 A/T 0891 TAN KOK HONG Lot 30, Jalan Villa 6, Taman Anggerik Villa, Off Jalan Semenyih, Selangor
+郑天才 校友 A/T 0892 CHONG THIAN CHOY 8, Jalan SR 2/2, Serdang Raya, 43300 Seri Kembangan, Selangor
+章国顺 校友 A/T 0893 CHONG KOK SOON 72, Jalan Kajang Raya 9, Taman Kajang Raya, 43000 Kajang, Selangor
+李德权 校友 A/T 0894 LEE TECK KHEN 27, Jalan 2, Taman Sungai Jelok, 43000 Kajang, Selangor
+欧阳满妹 校友 A/T 0895 EAN YONG MOON 2, Jalan 7/3G, Seksyen 7, 43650 Bandar Baru Bangi, Selangor
+黄重华 校友 A/T 0896 NG TONG HUA 148, Jalan Langat 10, Taman Sri Langat 2, 43000 Kajang, Selangor
+陈运琴 校友 A/T 0897 CHIN YUEN KUM 3, Jalan 51, Taman Bukit Mewah, 43000 Kajang, Selangor
+陈乙文 校友 A/T 0898 TAN HI MAN 19, Jalan Suasana 5/2, Bandar Tun Hussein Onn, 43200 Cheras, Selangor
+许福来 校友 A/T 0899 KOH HOCK LYE 16, Jalan SL 3/3, Bandar Sungai Long, 43000 Kajang, Selangor
+李保华 校友 A/T 0900 LEE POH HUA 1, Jalan Baru 2C, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+高泗海 校友 A/T 0901 KHOO SE HAI 123, Kampung Baru Bangi, 43000 Kajang, Selangor
+蔡丽敏 校友 A/T 0903 CHAI LEE MEN 21, Jalan Taming Emas 6, Taman Taming Emas, 43000 Kajang, Selangor
+梁静兰 校友 A/T 0904 LEONG CHING LAN B-10, Jalan 8, Kampung Baru, 43500 Semenyih, Selangor
+张荣强 校友 A/T 0905 CHEONG YUEN KEONG 26, Jalan KP 2/16, Taman Kajang Prima, 43000 Kajang, Selangor
+刘江山 校友 A/T 0906 LOW KANG SANG 16, Jalan Seri Damai 1, Taman Seri Damai, 43000 Kajang, Selangor
+刘其荣 校友 A/T 0907 LAU KEE YONG 242, Jalan Berjaya 1, Taman Berjaya, Sungai Chua, 43000 Kajang, Selangor
+李翠莲 校友 A/T 0909 LEE CHUE LENG 5, Lorong 1, Taman Bukit Indah, Jln.Bukit, 43000 Kajang, Selangor
+官亦凯 校友 A/T 0910 KWAN AIK KHAI 8, Jalan Pinggiran Saujana 2/1, Taman Pinggiran Saujana, 43000 Kajang, Selangor
+王建业 校友 A/T 0911 WONG KIEN GIAP 21, Jalan Zamrud 6, Taman Zamrud, 43000 Kajang, Selangor
+柯建生 校友 A/T 0912 KUA KEN SENG 99, Jalan Jasmin 8, Taman Jasmin, 43000 Kajang, Selangor
+彭克阳 校友 A/T 0913 PANG KEK YONG 21, Jalan Seri Sungai Long 1, Taman Seri Sungai Long, 43000 Bandar Sungai Long, Selangor
+吴世耀 校友 A/T 0914 NG SHIH YAU 229-A, Jalan Reko, Taman Mahkota, 43000 Kajang, Selangor
+丘羡莹 校友 A/T 0916 HIEW SIAN YING 35, Jalan BRP 6/5, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor
+叶金娣 校友 A/T 0917 YAP KIM THAI No 19, Jalan Bukit Mewah 4, Taman Bukit Mewah, 43000 Kajang, Selangor
+黄伟铭 校友 A/T 0918 WONG WAI MENG 56, Jalan KP 2/19, Taman Kajang Prima, 43000 Kajang, Selangor
+丘阳生 校友 A/T 0919 HIEW YUEN KIM 461, Kampung Baru Sungai Chua, 43000 Kajang, Selangor
+梁福强 校友 A/T 0920 LEONG FOOK KEONG 06-02, City Height Apartment, Sungai Chua, 43000 Kajang, Selangor
+陈嘉庆 校友 A/T 0921 TAN KAH KENG 95, Jalan Sungai Lallang, 43500 Semenyih, Selangor
+林颖友 校友 A/T 0922 LIM YING YEW 1, Jalan Taming Emas 3, Taman Taming Emas, 43000 Kajang, Selangor
+林慧仪 校友 A/T 0923 LUM HUI YEE Lot 45, Jalan 6, Sungai Makau, 43100 Hulu Langat, Selangor
+吴珮琳 校友 A/T 0924 GOH PEI LENG Lot 601 4B,Kwangtong Baru, Sungai Chua, 43000 Kajang, Selangor
+刘莉莉 校友 A/T 0925 LOW LE LEE No 26, Jalan 5/2, Seksyen 5, Bandar Teknologi Kajang, 43500 Semenyih, Selangor
+邱秀凰 校友 A/T 0926 KHOO SIEW ONG 35, Jalan Seri Emas 4, Taman Seri Emas, 43000 Kajang, Selangor
+郭金龙 校友 A/T 0927 KOAY KIM LONG 337, Jalan Reko, 43000 Kajang, Selangor
+刘真真 校友 A/T 0928 LOW CHIN CHIN No 1-1, Jln.Berjaya Baru 6, Taman Berjaya Baru, Sungai Chua, 43000 Kajang Selangor
+张忆珍 校友 A/T 0929 TEOH YEE CHEN 31, Jalan CJ2/10-3, Taman Cheras Jaya, 43200 Cheras, Selangor
+杨爱群 校友 A/T 0930 YONG AI CHUIN No 3, Jalan Baru 2A, Taman Bukit Kajang Baru, 43000 Kajang, Selangor
+林文陞 校友 A/T 0931 LIM BOON SENG No 43, Jalan Sutera 2/4, Taman Sutera, 43000 Kajang, Selangor
+张建峰 校友 A/T 0932 CHONG KEN FOONG No 2,Jalan Bukit Mewah 76, Taman Bukit Mewah, 43000 Kajang, Selangor
+刘有珍 校友 A/T 0933 LOW YEW TING No 18, Jalan Seri Damai 1, Taman Seri Damai, 43000 Kajang, Selangor
+蒋丽明 校友 A/T 0934 CHEW LI MING No 1, Jalan Bukit Indah, Taman Bukit Mewah, 43000 Kajang, Selangor
+李俊威 校友 A/T 0935 JASON LEE CHUN WEI No 35, Jalan BJ1, Taman Baiduri Jaya, Bandar Teknologi Kajang Seksyen 2, 43500 Semenyih, Selangor
+卢进才 校友 A/T 0936 LOO CHIN CHOY No 9, Jalan 6/3, Bandar Sunway Semenyih, 43500 Semenyih, Selangor
+邱慧宁 校友 A/T 0937 KEW WAI LING No 5, Jalan 9/10B, Taman Bukit Mewah, 43000 Kajang, Selangor
+官世峰 校友 A/T 0938 KWAN SAY HONG 52, Lrg. CP7/57, Taman Cheras Perdana, 43200 Cheras, Selangor
+邓雁伟 校友 A/T 0939 THEAN GNAN WOOI 16, Jln.Sunway 2/2A, Bandar Sunway Semenyih, 43500 Semenyih, Selangor
+陈永源 校友 A/T 0940 TAN ENG GUAN 9, Jln.Anggerik Perdana 3/1, Tmn.Anggerik Perdana, 43000 Kajang, Selangor
+陈晋才 校友 A/T 0941 TAN CHIN CHUAN 161, Balakong N/V, 43300 Seri Kembangan, Selangor
+莊玉光 校友 A/T 0942 CHONG YOURK KONG 7, Jalan SE 2, Taman Saujana Emas, Sungai Kantan, 43000 Kajang, Selangor
+官端 校友 A/T 0943 KUAN TUAN No 30, Jln.Penghulu 28/3, Bandar Mahkota Cheras, 43000 Kajang, Selangor
+高麗珠 校友 A/T 0944 KHOO LEE CHAU No 6, Jln.Bukit Mewah 33, Taman Bukit Mewah, 43000 Kajang, Selangor
+林金娇 校友 A/T 0945 LIM KIM KEOW 16, Jalan Jemerlang, Country Heights Damansara, 60000 Kuala Lumpur
+罗凤鸣 校友 A/T 0946 LOW FOONG MENG P.O.BOX 60704, 91017 Tawau, Sabah
+曾彩霞 校友 A/T 0947 CHENG CHOY HAR B-6-5, Vista Hartamas, Bukit Hartamas. 43200 Selangor
+陈皆宇 校友 A/T 0948 TAN KAH GEE 6, Lorong Galing 27, Taman Sri Tahan, Jalan Hajiahmad, 25300 Kuantan, Pahang
+萧记生 校友 A/T 0949 SIOW KEE SUNG 1513, Jln.Sri Putri 4/12, Taman Putri Kulai, 81000 Kulai, Johor
+陈庆荣 校友 A/T 0950 TAN KEK YEONG No 4, Jalan Baru, Desa Ros, 43000 Kajang, Selangor
+沈秉田 校友 A/T 0951 SIM BIING TYAN Lot 187 No 3, Jln. Langgit Biru, Country Heights, 43000 Kajang, Selangor
+黄爱华 校友 A/T 0952 NG OOI WAH Lot 187 No 3,Jln. Langgit Biru, Country Heights, 43000 Kajang, Selangor
+何啟顺 校友 A/T 0953 HOH KEE TUN SD-5, Jalan 6/6, Taman Indah, Batu 11, 43200 Cheras, Selangor
+吴瑞南 校友 A/T 0954 GOH SWEE LIANG No 184, Jalan 12, Kg. Baru Batu 11, 43200 Cheras, Selangor
+沈世华 校友 A/T 0955 SIM SEE HUA Lot 187 No 3,Jln. Langgit Biru, Country Heights, 43000 Kajang, Selangor
+李雅兴 校友 A/T 0956 LEE AH HENG 385, Jalan Jasmin 11, Taman Jasmin, 43000 Kajang, Selangor
+梁福威 校友 A/T 0957 LEONG FOOK WAI 17, Jalan Bukit Mutiara 9, Taman Bukit Mutiara, 43000 Kajang, Selangor
+郑振辉 校友 A/T 0958 CHANG CHUNG FEI No 1, Jalan BSL 1/7, Taman Bukit Sg. Long 1, 43200 Kajang, Selangor
+李旭伟 校友 A/T 0959 LEE SIT WAI No 12, Jalan Minang 4, Taman Minang, 43000 Kajang, Selangor
+谢慧清 校友 A/T 0960 SIA HUI CHIN 47, Jalan Asa 1, Taman Asa Jaya, 43000 Kajang, Selangor
+黄佩云 校友 A/T 0961 NG PUEH HOON 10, Jalan Baru Desa Ros, Taman Desa Ros, 43000 Kajang, Selangor
+彭国良 校友 A/T 0962 PHANG KET LEONG No 542, Kampung Baru Sungai Chua, 43000 Kajang, Selangor
+宋碧仪 校友 A/T 0963 SOONG PEK YEE No 11, Jalan Villa Perdana 3, Taman Villa Perdana, 43000 Kajang, Selangor
+张艳清 校友 A/T 0964 CHONG YEAN CHING 15, Jalan 8, Taman Kajang Raya, 43000 Kajang, Selangor
+黄家欣 校友 A/T 0965 NG JIA SHIN 52, Jalan 6/6, Bandar Sunway, 43500 Semenyih, Selangor
+张佛婷 校友 A/T 0966 CHONG FO THING 8, Jalan Berlian 3, Taman Berlian, Sungai Jelok, 43000 Kajang, Selangor
+陈慧渟 校友 A/T 0967 TAN HUEY TING 211, Jalan Jasmin 9, Taman Jasmin, 43000 Kajang, Selangor
+许佳斌 校友 A/T 0968 KOH KIA PING 211, Jalan Jasmin 9, Taman Jasmin, 43000 Kajang, Selangor
+李芳贤 校友 A/T 0969 LEE HONG HIEN No 113A-A, Jalan 1/7, Taman Villa Heights 2, 43000 Kajang, Selangor
+陈文贤 校友 A/T 0970 TAN BOON HEAN 10, Jalan Zamrud 9, Taman Zamrud, 43000 Kajang, Selangor
+温菱秋 校友 A/T 0971 WAN LIN CHIEW No 32A, Jln.Bangi Avenue 7/16 Taman Bangi Avenue Sek 7, 43000 Kajang, Selangor
+郑倩妮 校友 A/T 0972 TEH SHEAN NEE B-03-05, Tiara Parkhomes, Taman Bukit Ria, 43000 Kajang, Selangor
+黄俊荣 校友 A/T 0973 WONG KONG YONG B-03-05, Tiara Parkhomes, Taman Bukit Ria, 43000 Kajang, Selangor
+萧正芳 校友 A/T 0974 SEOW CHIN FONG 8, Jalan Jelita 3, Taman Jelita, 43000 Kajang, Selangor
+黄骏铭 校友 A/T 0975 NG CHOON MING No 6, Jalan Ria 3, Taman Kajang Ria, 43000 Kajang, Selangor
+陈啟桐 校友 A/T 0976 CHEN HEE TONG GGP5, Jalan Cinta Kasih, Country Villa Country Height, 43000 Kajang, Selangor
+黄雁雁 校友 A/T 0977 WONG YUEN YUEN 25, Jalan 1/128A, Taman Bukit Aman, 58100 Kuala Lumpur
+陈超坤 校友 A/T 0978 TAN CHAU KUN 39, Jalan Mendaling, 43000 Kajang, Selangor
+杜翠玉 校友 A/T 0979 TOO CHUN YOKE 19, Jln. Idaman 1, Taman Semenyih Idaman, 43000 Kajang, Selangor
+曾华平 校友 A/T 0980 CHAN WAH PENG 22A, Jalan K2 Villas S1/3, 43000 Kajang, Selangor
+李玟澔 校友 A/T 0981 LEE BOON HAUR 30, Jalan 2/8, Bandar Sunway Semenyih, 43500 Semenyih, Selangor
+蔡美金 校友 A/T 0982 CHUAH MOOI KIM 95, Jalan Kachao, 43500 Semenyih, Selangor
+杨靖耀 校友 A/T 0983 YONG KIANG YEOW 59, Jalan 3/9, Seksyen 3, Bandar Teknologi Kajang, 43500 Semenyih, Selangor
+张国良 校友 A/T 0984 CHONG KEAT LEONG 102A, Jln.Desa Mewah 6, Desa Mewah, 43500 Semenyih, Selangor
+刘美娟 校友 A/T 0985 LOW MEE KIAN 25B, Jln. Wawasan 2/10, Bandar Baru Ampang, 68000 Ampang, Selangor
+刘美蓉 校友 A/T 0986 LOW MEY YOON Unit C28-01, Sphere Damansara Prima Damansara, Jln.PJU 10/9, 47830 Petaling Jaya, Selangor
+赖德金 校友 A/T 0987 LAI TEK KIM 67,Jln. 1/3, Prima Saujana, 43000 Kajang, Selangor
+曾国祥 校友 A/T 0988 CHEN KOK SEONG No.16, Jalan KP 3/3, Taman Kajang Prima, 43000 Kajang, Selangor
+叶嘉妮 校友 A/T 0989 YAP JA NEY 206, Jln. Langat 2, Taman Sri Langat, 43000 Kajang, Selangor
+廖丽婷 校友 A/T 0990 LEOW LI TING 524, Jalan 16, Sungai Chua, 43000 Kajang, Selangor
+陈嘉宏 校友 A/T 0991 JEFF CHIN KAH FEN No.50, Jalan SL 4/6, Bandar Sungai Long, 43000 Kajang, Selangor
+廖志勇 校友 A/T 0992 LIOW CHI YONG No.23, Jalan KP 2/6, Taman Kajang Prima, 43000 Kajang, Selangor
+朱孝贤 校友 A/T 0993 CHU HOW YEAN No 5, Jalan SL 9/6, Bandar Sungai Long, 43000 Kajang, Selangor
+林湧翔 校友 A/T 0994 LIM YEONG SEONG 27, Jalan Puncak 3, Puncak Perdana, 43200 Cheras, Selangor
+苏渼骅 校友 A/T 0995 SOH MEI WAH 27,Jln.Prima Saujana 1/4H, Tmn.Prima Saujana, Sek.1, 43000 Kajang, Selangor
+沈应状 校友 A/T 0996 SAM YIN CHUANG No.15,Jln.CP 6/50, Taman Cheras Perdana, 43200 Cheras, Selangor
+陈为恒 校友 A/T 0997 TAN WEI HERNG 13A, Jln. HP 2/2, Hill Park Home, 43500 Semenyih, Selangor
+黎雁燕 校友 A/T 0998 LAI NGAN YIN 13, Jalan Kekwa 1, Desa Kekwa, 43000 Kajang, Selangor
+黄定伟 校友 A/T 0999 WONG TIN WOOI No.12, Jln. Kajang Raya 10, Taman Kajang Raya, 43000 Kajang, Selangor
+张友杰 校友 A/T 1000 CHONG YEW JET No.2, Jalan SL 8/18, Bandar Sungai Long, 43000 Kajang, Selangor
+吴政庆 校友 A/T 1001 GOH ZHENG QING 20,Jln.Damai Perdana 4/2C, Bandar Damai Perdana, 56000 Cheras, Kuala Lumpur
+张耀龙 校友 A/T 1002 CHONG YEW LOONG No.15, Jalan Sunway 1/8, Bandar Sunway Semenyih, 43500 Semenyih, Selangor
+陈玉琼 校友 A/T 1003 TAN KEAT KENG 100, Taman Sungai Chua, 43000 Kajang, Selangor
+陈玉英 校友 A/T 1004 TAN KEAT YING 377, Jalan Melati 10, Taman Melati, Phase 4, 71800 Putra Nilai, Negeri Sembilan
+何继生 校友 A/T 1005 HOH SWEE HAI E2.28-10，No 1，Jalan 1/152, Taman Parklane OUG, Jalan Klang Lama, 58200 Kuala Lumpur
+江韦达 校友 A/T 1006 KONG VEE TUCK No 64, Jalan 10, Taman Kajang Baru, Sg. Chua, 43000 Kajang, Selangor
+叶美琴 校友 A/T 1007 YAP MEI CHIN 61, Jalan CH 2, Taman Cheras Hartamas, 43200 Cheras, Selangor
+林玉莲 校友 A/T 1008 LIM YOKE LIAN T13, Taman Indah, Batu 11, 43200 Cheras, Selangor
+林金瑛 校友 A/T 1009 LIM KIM ENG No 8, Jalan P4/8A, Crest Hill Industrial Park, Bandar Teknologi Kajang, 43500 Semenyih, Selangor
+刘珍妮 友 A/T 1010 LOW JENNY No 9, Jalan Jade Hills 2/5, Jade Hills, 43000 Kajang, Selangor
+池沁霞 校友 A/T 1011 CHI CHUI SHYA No 65, Jln. Pinggiran Saujana 3, Taman Pinggiran Saujana, 43000 Kajang, Selangor
+王美云 校友 A/T 1012 ONG BEE HOON No 6, Jalan 5/1, Taman Setia Impian, 43000 Kajang, Selangor
+何宜霖 校友 A/T 1013 HO YEE LING No 1/M, Jalan Maju Satu 6, Taman Maji Satu, Sg.Jelok, 43000 Kajang, Selangor
+何宛霖 校友 A/T 1014 HO WAN LING 32, Jalan Maju Satu 2, Taman Maju Satu, Sg. Jelok, 43000 Kajang, Selangor
+陈封辉 校友 A/T 1015 CHAN FONG FEI 293, Jalan Kijang 2, Taman Suntex, 43200 Batu 9 Cheras, Selangor
+陈佩玲 校友 A/T 1016 CHAN PEI LENG 293, Jalan Kijang 2, Taman Suntex, 43200 Batu 9 Cheras, Selangor
+饶美娥 校友 A/T 1017 YEW MEI NGOI No 3, Jln. Tropicana Heights 1/7, Taman Tropicana, 43000 Kajang, Selangor
+李玉英 校友 A/T 1018 LEE YOKE ENG No 381, Kg.Baru Sg.Chua, 43000 Kajang, Selangor
+李智强 校友 A/T 1019 LEE CHEE KEONG 36, Jalan BSL 1/3, Bukit Sungai Long, 43200 Cheras, Selangor
+锺应龙 校友 A/T 1020 CHONG ING LOONG 21, Jalan Megah 11, Taman Megah Cheras, Batu 9, 43200 Cheras, Selangor
+罗丽莉 校友 A/T 1021 LOW LI LEE 31, Jalan Kajang Impian 1/8, Taman Kajang Impian, 43650 Bandar Baru Bangi, Selangor
+叶嘉芯 校友 A/T 1022 YAP JA LEEN Lot 269, Jalan 1/7, Taman Villa Heights, 43000 Kajang, Selangor
+罗锦麒 校友 A/T 1023 LOH KAH KEE No 72-1, Jalan D'Alpinia, Taman D'Alpinia, 47120 Puchong, Selangor
+张云云 校友 A/T 1024 CHONG YOON YOON Lot 3998, Jalan 6/2A, Taman Industri Selesa Jaya, 43300 Balakong, Selangor
+陈丽霞 校友 A/T 1025 CHIN LI HAR No 22, Jln Kajang Impian 2/9, Taman Kajang Impian, 43650 Bandar Baru Bangi, Selangor
+刘家薇 校友 A/T 1026 LOW KIA WEI No 13A, Jln Prima Saujana 1/1A Taman Prima Saujana,Seksyen 1 43000 Kajang, Selangor
+宋碧菁 校友 A/T 1027 SONG PIT CHING 2A, Jalan SH3, Sentosa Heights, 43000 Kajang, Selangor
+刘丽玉 校友 A/T 1028 LOW LAY YOKE 16, Jalan BSL 1/5, Bukit Sungai Long, 43000 Kajang, Selangor
+李芳慧 校友 A/T 1029 LEE HONG HUI 2, Jalan 2/7, Taman Villa Heights 2, 43000 Kajang, Selangor
+黄国民 校友 A/T 1030 WONG KONG MENG 113, Jln.Puteri Senggang, Sri Petaling, 57000 Kuala Lumpur
+陈玉萍 校友 A/T 1031 CHIN NYOK YEN 4, Bensam Close Rowville Vic 3178 Australia
+龚珍珠 校友 A/T 1032 KONG TING CHUY No 8, Jalan Sri Jelok 26, Taman Sri Jelok, 43000 Kajang, Selangor
+陈文元 校友 A/T 1033 CHIN VOON YEN No 52A, Jalan Seri Damai 1, Taman Seri Damai, 43000 Kajang, Selangor
+叶玉瑞 校友 A/T 1034 YAP NGUIK SUE No 52A, Jalan Seri Damai 1, Taman Seri Damai, 43000 Kajang, Selangor
+龚玉卿 校友 A/T 1035 KONG KEK KENG 18, Jalan SS3/50, University Garden, 47300 Petaling Jaya, Selangor
+黄龙盛 校友 A/T 1036 NG LEONG KING No 95, Taman Sri Reko, Jalan Reko, 43000 Kajang, Selangor
+章成发 校友 A/T 1037 CHONG SOONG HOCK 224, Jalan Desa Mesra, Taman Desa, Jalan Klang Lama, 58100 Kuala Lumpur
+池玉英 校友 A/T 1038 CHEE YOOK YIN No 3, Jalan SS12/3A, 47600 Subang Jaya, Selangor
+黄慧诗 校友 A/T 1039 WONG FUI SZE 31, Victoria Knox Ave, Rowville, Vic 3178 Australia
+陈丽丽 校友 A/T 1040 CHIN LI LI 10, Jalan Taming Emas 5, Taman Taming Emas, 43000 Kajang, Selangor
+刘政兴 校友 A/T 1041 LOW CHEN HENG 82, Jalan Sunway 6/6, Bandar Sunway Semenyih, 43500 Semenyih, Selangor
+曾达伟 校友 A/T 1042 CHEN TUCK WAI 53-56, Jalan Tun Abdul Aziz, 43000 Kajang, Selangor
+黄书勤 校友 A/T 1043 HWANG SOO KHOON 19, Jalan B.T.K 5/6, Seksyen 5, Bandar Teknologi Kajang, 43500 Semenyih, Selangor
+周蒙茵 校友 A/T 1044 CHOW MON YAN No 25, Taman Sg. Mas, Jalan Reko, 43000 Kajang, Selangor
+林宏展 校友 A/T 1045 LIM HONG TIAN No 12, Jalan Seri Damai 1, Taman Seri Damai, 43000 Kajang, Selangor
+刘俊颖 校友 A/T 1046 LOW CHUN WENG No 16, Jalan Seri Damai 1, Taman Seri Damai, 43000 Kajang, Selangor
+刘嘉玲 校友 A/T 1047 LAU KAH LING No 7, Jalan Idaman 6, Idaman Hills, 68100 Batu Caves, Selangor
+李丽婷 校友 A/T 1048 LEE LEI THEEN 355, Jalan 11, Kampung Sungai Chua, 43000 Kajang, Selangor
+李颖坤 校友 A/T 1049 LEE ENG KOON 24, Taman Sri Langat, Jalan Reko, 43000 Kajang, Selangor
+刘耀庆 校友 A/T 1050 LOW YEOW KHENG 93, Jalan Bukit Mewah 9/11, Taman Bukit Mewah Fasa 9, 43000 Kajang, Selangor
+叶汉伦 校友 A/T 1051 YAP HON LUN No. 2, Jalan Majusatu 3, Taman Majusatu, 43000 Kajang, Selangor
+郭海燕 校友 A/T 1052 KEK HAI YAN 14-07, P/puri Puncak Saujana, Taman Puncak Saujana, 43000 Kajang, Selangor
+黄梅兰 校友 A/T 1053 WONG MOOI LAN 21, Jalan Jelok Indah 10, Taman Jelok Indah, 43000 Kajang, Selangor
+蔡德亮 校友 A/T 1054 CHAI DEK LIANG 18, Jalan Jelok Indah 10, Taman Jelok Indah, 43000 Kajang, Selangor
+高征远 校友 A/T 1055 KHOO CHENG WAN 123, Kanpung Baru Bangi, 43000 Kajang, Selangor
+龚锦团 校友 A/T 1056 KONG JIN CHUAN 9, Jalan SP 4, Taman Saujana Palma, 43000 Kajang, Selangor
